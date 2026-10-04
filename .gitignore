@@ -1,0 +1,4 @@
+.aicode/
+.venv/
+*.log
+Screenshot*
