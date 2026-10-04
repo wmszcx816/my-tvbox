@@ -2,3 +2,6 @@
 .venv/
 *.log
 Screenshot*
+diyp_live.txt
+diyp_live_lan.txt
+tytv_proxy.txt
