@@ -613,6 +613,18 @@ https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
 #EXTINF:-1 tvg-name="唯心電視" tvg-logo="https://cdn.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%94%AF%E5%BF%83%E7%94%B5%E8%A7%86.png" group-title="港🎋澳",唯心電視
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-name="TVB-娱乐新闻" group-title="港🎋澳",TVB-娱乐新闻
+http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=731b14933ec05b7bed938ab0e2489f30;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+#EXTINF:-1 tvg-name="Now-华剧" group-title="港🎋澳",Now-华剧
+http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=ab89a61ded743371184f508a167692fe;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+#EXTINF:-1 tvg-name="Now-星影(粤)" group-title="港🎋澳",Now-星影(粤)
+http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b8efa23b529264b8040949465f04898e;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+#EXTINF:-1 tvg-name="Now-爆谷(国)" group-title="港🎋澳",Now-爆谷(国)
+http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=42166abbf33965f3f33ea8cd1d443d92;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+#EXTINF:-1 tvg-name="Now-爆谷(粤)" group-title="港🎋澳",Now-爆谷(粤)
+http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=22e84fe145342b4dbfe6e06e044ed857;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+#EXTINF:-1 tvg-name="待命名台" group-title="港🎋澳",待命名台
+http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=24439004f10b68b0961ba1adceb2df59;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
 #EXTINF:-1 tvg-name="惊艳1" group-title="松🎋视",惊艳1
 rtmp://112.29.121.74/live/易發TV-jyt
 #EXTINF:-1 tvg-name="香蕉2" group-title="松🎋视",香蕉2
