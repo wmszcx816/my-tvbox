@@ -1,5 +1,4 @@
 生🍷活,#genre#
-
 彩虹電影,http://srteamhls.gotvsports.com:41111/w8chslnwkcidbh3r/index.m3u8
 彩虹R,http://srteamhls.gotvsports.com:41111/f35jovi7msk6dd4p/index.m3u8
 彩虹E,http://srteamhls.gotvsports.com:41111/gk1lhs34k93w0egd/index.m3u8
@@ -23,6 +22,9 @@ Bein7 HD French,http://srteamhls.gotvsports.com:41111/aaeo3rgjxvd23vl0/index.m3u
 Bein8 HD French,http://srteamhls.gotvsports.com:41111/n7e0u99l1xackrt9/index.m3u8
 Bein9 HD French,http://srteamhls.gotvsports.com:41111/9w5sshzpdlruhz3r/index.m3u8
 Bein10HD French,http://srteamhls.gotvsports.com:41111/n00xq9m74p19zyn0/index.m3u8
+松视4,http://166.88.186.26/live/ss4.m3u8
+老毛子极限电影台(免翻),http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14158/index.m3u8
+奧視,http://125.227.210.55:3031/VideoInput/play.ts
 
 央🇨🇳卫,#genre#
 
