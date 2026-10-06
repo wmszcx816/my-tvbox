@@ -45,6 +45,12 @@ http://srteamhls.gotvsports.com:41111/n7e0u99l1xackrt9/index.m3u8
 http://srteamhls.gotvsports.com:41111/9w5sshzpdlruhz3r/index.m3u8
 #EXTINF:-1 tvg-name="Bein10HD French" tvg-logo="https://cdn.jsdelivr.net/gh/CCSH/IPTV@main/logo/BEIN1.png" group-title="生🍷活",Bein10HD French
 http://srteamhls.gotvsports.com:41111/n00xq9m74p19zyn0/index.m3u8
+#EXTINF:-1 tvg-name="松视4" group-title="生🍷活",松视4
+http://166.88.186.26/live/ss4.m3u8
+#EXTINF:-1 tvg-name="老毛子极限电影台(免翻)" group-title="生🍷活",老毛子极限电影台(免翻)
+http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14158/index.m3u8
+#EXTINF:-1 tvg-name="奧視" group-title="生🍷活",奧視
+http://125.227.210.55:3031/VideoInput/play.ts
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV1.png" group-title="央🇨🇳卫",CCTV1
 http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=6607337aa8fa6d6cd9b46915384af2
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV2.png" group-title="央🇨🇳卫",CCTV2
