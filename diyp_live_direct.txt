@@ -391,7 +391,7 @@ TVBVietnam,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv
 千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
 民视第一,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b76755690d6750fa94321fcbfed67464;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=114695
-翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 凤凰中文,http://ysift55.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052575.ts
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
@@ -4712,5 +4712,25 @@ DJ歌曲怎么爱都爱不够,https://vd3.bdstatic.com/mda-mksyipb0103ck0pm/sc/c
 DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
 车载DJ殇雪,https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
 心在跳情在烧,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
+
+🎵音樂直播🎵,#genre#
+MTV Live (US),http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+Now 70s,https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-tclus/playlist.m3u8
+Now 80s,https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8
+Now 90s,https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-tclus/playlist.m3u8
+Trace Urban,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+Trace Latina,https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+Qwest Jazz,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgbr/playlist.m3u8
+Stingray Classic,https://stream.ads.ottera.tv/playlist.m3u8?network_id=4522
+Stingray Djazz,https://stream.ads.ottera.tv/playlist.m3u8?network_id=4589
+Club MTV,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/558/index.m3u8
+Stingray DJAZZ,https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/5711200/manifest.m3u8
+Kronehit,http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+V2Beat TV,https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+V2BEAT,https://de1se01.v2beat.live/playlist.m3u8
+MTV 80s,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31558/index.m3u8
+MTV 90s,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31560/index.m3u8
+MTV 00s,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31559/index.m3u8
+Movie Music by Stingray,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 
 .
