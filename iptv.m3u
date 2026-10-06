@@ -772,7 +772,7 @@ http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b76755690d6750fa94321fcbfed674
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港🎋澳",凤凰资讯
 http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=114695
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港🎋澳",翡翠台
-http://r.jdshipin.com/62WM7
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://cdn.jsdelivr.net/gh/CCSH/IPTV@main/logo/TVB%E6%98%8E%E7%8F%A0.png" group-title="港🎋澳",TVB明珠
 http://iptv.4666888.xyz/iptv2A.php?id=29
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
@@ -9313,3 +9313,39 @@ https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728
 https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
 #EXTINF:-1 tvg-name="心在跳情在烧" group-title="🎸DJ舞曲🎸",心在跳情在烧
 https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
+#EXTINF:-1 tvg-name="MTV Live (US)" group-title="🎵音樂直播🎵",MTV Live (US)
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-name="Now 70s" group-title="🎵音樂直播🎵",Now 70s
+https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-tclus/playlist.m3u8
+#EXTINF:-1 tvg-name="Now 80s" group-title="🎵音樂直播🎵",Now 80s
+https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8
+#EXTINF:-1 tvg-name="Now 90s" group-title="🎵音樂直播🎵",Now 90s
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-tclus/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Urban" group-title="🎵音樂直播🎵",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Latina" group-title="🎵音樂直播🎵",Trace Latina
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Qwest Jazz" group-title="🎵音樂直播🎵",Qwest Jazz
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-name="Stingray Classic" group-title="🎵音樂直播🎵",Stingray Classic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4522
+#EXTINF:-1 tvg-name="Stingray Djazz" group-title="🎵音樂直播🎵",Stingray Djazz
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4589
+#EXTINF:-1 tvg-name="Club MTV" group-title="🎵音樂直播🎵",Club MTV
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/558/index.m3u8
+#EXTINF:-1 tvg-name="Stingray DJAZZ" group-title="🎵音樂直播🎵",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/5711200/manifest.m3u8
+#EXTINF:-1 tvg-name="Kronehit" group-title="🎵音樂直播🎵",Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-name="V2Beat TV" group-title="🎵音樂直播🎵",V2Beat TV
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 tvg-name="V2BEAT" group-title="🎵音樂直播🎵",V2BEAT
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV 80s" group-title="🎵音樂直播🎵",MTV 80s
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31558/index.m3u8
+#EXTINF:-1 tvg-name="MTV 90s" group-title="🎵音樂直播🎵",MTV 90s
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31560/index.m3u8
+#EXTINF:-1 tvg-name="MTV 00s" group-title="🎵音樂直播🎵",MTV 00s
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31559/index.m3u8
+#EXTINF:-1 tvg-name="Movie Music by Stingray" group-title="🎵音樂直播🎵",Movie Music by Stingray
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
