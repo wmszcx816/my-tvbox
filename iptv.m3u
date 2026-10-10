@@ -841,6 +841,18 @@ http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
 http://iptv.4666888.xyz/iptv2A.php?id=30
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" group-title="港🎋澳",凤凰香港
 http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=aff37a7016d2f0ae2cab0c213a506bc0;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
+#EXTINF:-1 tvg-name="面包台" tvg-logo="https://cdn.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%A2%E5%8C%85%E5%8F%B0.png" group-title="港🎋澳",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" group-title="港🎋澳",TVB Plus
+https://cdn3.123.rr.kg/stream/tvb/tvbp/
+#EXTINF:-1 tvg-name="TVB Plus" group-title="港🎋澳",TVB Plus
+http://cdn10.123.rr.kg/163189/tvbp/
+#EXTINF:-1 tvg-name="翡翠台4K" group-title="港🎋澳",翡翠台4K
+https://cdn3.indevs.in/stream/tvb/fct4k/
+#EXTINF:-1 tvg-name="环球电视" group-title="港🎋澳",环球电视
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86.png" group-title="港🎋澳",星空卫视
+http://116.77.33.98:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="AMC 电影台音乐" group-title="电🎬影",AMC 电影台音乐
 https://AMChls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="电🎬影",CCTV怀旧剧场
