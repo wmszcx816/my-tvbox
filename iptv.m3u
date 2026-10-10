@@ -854,13 +854,7 @@ http://107.150.60.122/live/hjjc.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="电🎬影",CCTV怀旧剧场
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="电🎬影",CCTV怀旧剧场
-https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="电🎬影",CCTV怀旧剧场
 http://204.12.221.218:8181/3m1080p/hjjc.m3u8
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="电🎬影",CCTV怀旧剧场
-http://120.76.248.139/live/bfgd/4200000224.m3u8
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="电🎬影",CCTV怀旧剧场
-http://60.2.190.206:4000/udp/239.253.93.252:6430
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="电🎬影",CCTV怀旧剧场
 http://111.61.236.247:9081/hls/67/index.m3u8
 #EXTINF:-1 tvg-name="CCTV第一剧场" group-title="电🎬影",CCTV第一剧场
@@ -873,10 +867,6 @@ http://bztv.tvbus.cc:8081/cdnlive/dyjc.m3u8
 http://107.150.60.122/live/dyjc.m3u8
 #EXTINF:-1 tvg-name="CCTV第一剧场" group-title="电🎬影",CCTV第一剧场
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
-#EXTINF:-1 tvg-name="CCTV第一剧场" group-title="电🎬影",CCTV第一剧场
-https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV第一剧场" group-title="电🎬影",CCTV第一剧场
-https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="CCTV第一剧场" group-title="电🎬影",CCTV第一剧场
 http://204.12.221.218:8181/3m1080p/dyjc.m3u8
 #EXTINF:-1 tvg-name="CCTV第一剧场" group-title="电🎬影",CCTV第一剧场
@@ -930,10 +920,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chchd
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="电🎬影",CHC影迷电影
 http://111.228.4.117:6789/migu720p.php?id=952383261
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="电🎬影",CHC影迷电影
-http://116.236.204.18:1234/952383261
-#EXTINF:-1 tvg-name="CHC影迷电影" group-title="电🎬影",CHC影迷电影
-http://114.240.111.49:7788/952383261
-#EXTINF:-1 tvg-name="CHC影迷电影" group-title="电🎬影",CHC影迷电影
 http://182.85.163.86:1234/952383261
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="电🎬影",CHC影迷电影
 http://hzzzz530.com:4022/udp/239.69.1.241:11088
@@ -948,17 +934,11 @@ http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 #EXTINF:-1 tvg-name="怀旧剧场" group-title="电🎬影",怀旧剧场
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
 #EXTINF:-1 tvg-name="怀旧剧场" group-title="电🎬影",怀旧剧场
-https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="怀旧剧场" group-title="电🎬影",怀旧剧场
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="欢笑剧场" group-title="电🎬影",欢笑剧场
 http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="湖南电影" group-title="电🎬影",湖南电影
 http://218.77.84.102:85/tsfile/live/149/2005_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="第一剧场" group-title="电🎬影",第一剧场
-https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="第一剧场" group-title="电🎬影",第一剧场
-https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="第一剧场" group-title="电🎬影",第一剧场
 http://107.150.60.122/live/dyjc.m3u8
 #EXTINF:-1 tvg-name="第一剧场" group-title="电🎬影",第一剧场
@@ -979,8 +959,6 @@ https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 #EXTINF:-1 tvg-name="靖天电影" group-title="电🎬影",靖天电影
 http://31.43.191.125:8080/restream/restream/34836
-#EXTINF:-1 tvg-name="风云剧场" group-title="电🎬影",风云剧场
-https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="风云剧场" group-title="电🎬影",风云剧场
 http://173.208.212.130:8181/720p/fyjc.m3u8
 #EXTINF:-1 tvg-name="风云剧场" group-title="电🎬影",风云剧场
