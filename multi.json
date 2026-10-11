@@ -2,15 +2,15 @@
   "urls": [
     {
       "name": "天涯影视·线路1",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/wmszcx816/my-tvbox/master/tvbox2.json"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/wmszcx816/my-tvbox/master/tvbox.json"
     },
     {
       "name": "天涯影视·线路2",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wmszcx816/my-tvbox/master/tvbox2.json"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wmszcx816/my-tvbox/master/tvbox.json"
     },
     {
       "name": "天涯影视·线路3",
-      "url": "https://fastly.jsdelivr.net/gh/wmszcx816/my-tvbox@9e0548658c16b12e4067d9fb31b096a9e3f558ff/tvbox2.json"
+      "url": "https://fastly.jsdelivr.net/gh/wmszcx816/my-tvbox@f4c204b73fe1c52e9b97b25d4640d59bff95b4fa/tvbox.json"
     }
   ]
 }
