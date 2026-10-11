@@ -120,7 +120,7 @@ http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=202
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",安徽卫视
-http://116.77.33.98:44330/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+http://112.27.5.218:9901/tsfile/live/0130_2.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",东南卫视
 http://gslbmgsplive.miguvideo.com/migu/kailu/dongnanws/50/20230724/index.m3u8?msisdn=202610111841454ce89902634f43b3887cf1e5f6c8bc53&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20261011184145&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=2409:8a00:6035:7931:cd0b:9c00:e536:3023&SecurityKey=20261011184145&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=63d5729bec2141dde35183edbe490f52&ddCalcu=2653efd105997042e9bbdeec328114513ded
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",东南卫视
@@ -154,9 +154,9 @@ http://120.76.248.139/live/bfgd/4200000473.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",重庆卫视
 http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=20261011184148a36bc7b7a4df4800b3468182a8516e83&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20261011184148&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=2409:8a00:6035:7931:cd0b:9c00:e536:3023&SecurityKey=20261011184148&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=afb655e01bee716b0731e6e8ca562a8e&ddCalcu=ea8feab126865055aec081eb6eee1731760b
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",四川卫视
-http://124.116.183.146:9901/tsfile/live/0123_1.m3u8
+http://116.77.33.98:44330/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",贵州卫视
-http://59.39.89.130:60901/tsfile/live/0125_15.m3u8?key=txiptv&playlive=1&authid=0
+http://124.90.45.52:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",云南卫视
 http://120.76.248.139/live/bfgd/4200000482.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",西藏卫视
@@ -172,7 +172,7 @@ http://120.76.248.139/live/bfgd/4200000111.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",宁夏卫视
 http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20261011184147bc4f71f35fd94d989609250b4c8f5600&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20261011184147&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=2409:8a00:6035:7931:cd0b:9c00:e536:3023&SecurityKey=20261011184147&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3b7e6a8d0c31322fd9140961a53b921b&ddCalcu=b31be2719e8b603a58ad106c9301431292df
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",新疆卫视
-http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
+http://120.198.86.186:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",兵团卫视
 http://gslbmgsplive.miguvideo.com/migu/kailu/btws/50/20250804/index.m3u8?msisdn=20261011184147c14e5daa7a39441fa0d3356a315ad0ea&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20261011184147&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=2409:8a00:6035:7931:cd0b:9c00:e536:3023&SecurityKey=20261011184147&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e01ca567876f233c7d439bba76ee3786&ddCalcu=6e80e7113c6ea0e56677a8b7b69f3243d37c
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="央🇨🇳卫",深圳卫视
