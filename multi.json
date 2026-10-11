@@ -1,0 +1,20 @@
+{
+  "urls": [
+    {
+      "name": "天涯影视·线路1",
+      "url": "https://fastly.jsdelivr.net/gh/wmszcx816/my-tvbox@master/tvbox2.json"
+    },
+    {
+      "name": "天涯影视·线路2",
+      "url": "https://testingcf.jsdelivr.net/gh/wmszcx816/my-tvbox@master/tvbox2.json"
+    },
+    {
+      "name": "天涯影视·线路3",
+      "url": "https://gcore.jsdelivr.net/gh/wmszcx816/my-tvbox@master/tvbox2.json"
+    },
+    {
+      "name": "天涯影视·线路4",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wmszcx816/my-tvbox/master/tvbox2.json"
+    }
+  ]
+}
