@@ -281,8 +281,6 @@ http://211.72.174.95:8117/0.ts
 http://124.244.129.167:9004/0.ts
 #EXTINF:-1 tvg-name="有线18台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9C%89%E7%B7%9A18%E5%8F%B0.png" group-title="港🎋澳",有线18台
 http://qingyi.7766.org:9004/0.ts
-#EXTINF:-1 tvg-name="香港国际卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%A6%99%E6%B8%AF%E5%9B%BD%E9%99%85%E5%8D%AB%E8%A7%86.png" group-title="港🎋澳",香港国际卫视
-http://player4.juyun.tv/camera/158562106.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png" group-title="港🎋澳",广东珠江
 https://2.fast.hidns.vip/163189/gdzj
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="港🎋澳",广东体育
@@ -351,12 +349,6 @@ https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/ey
 http://211.72.174.95:8113/0.ts
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8D%8E%E8%A7%86.png" group-title="港🎋澳",華視
 http://211.72.174.95:8114/0.ts
-#EXTINF:-1 tvg-name="公視" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%85%AC%E8%A7%86.png" group-title="港🎋澳",公視
-http://211.72.174.95:8116/0.ts
-#EXTINF:-1 tvg-name="民視" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86.png" group-title="港🎋澳",民視
-http://211.72.174.95:8115/0.ts
-#EXTINF:-1 tvg-name="台視" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86.png" group-title="港🎋澳",台視
-http://211.72.174.95:8112/0.ts
 #EXTINF:-1 tvg-name="Wild TV" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/WILD.png" group-title="港🎋澳",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86.png" group-title="港🎋澳",人间卫视
@@ -365,12 +357,6 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 #EXTINF:-1 tvg-name="唯心电视" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%94%AF%E5%BF%83%E7%94%B5%E8%A7%86.png" group-title="港🎋澳",唯心电视
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
-http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港🎋澳",凤凰资讯
-http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" group-title="港🎋澳",凤凰香港
-http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7.png" group-title="港🎋澳",三立戏剧
@@ -387,8 +373,6 @@ https://cdn11.123.rr.kg/163189/hoy76
 https://cdn.123.rr.kg/163189/hoy
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/HOY78.png" group-title="港🎋澳",HOY78
 https://cdn.123.rr.kg/163189/hoy78
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港🎋澳",翡翠台
-http://45.192.97.170:8880/play/1215.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港🎋澳",翡翠台
 http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港🎋澳",翡翠台
@@ -412,35 +396,21 @@ https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" group-title="港🎋澳",凤凰香港
 https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
-http://ysift55.xyz/live/52TLK6U/TNLMRY9/1052575.ts
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
 http://218.206.193.218:8888/hls/66/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
 http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港🎋澳",凤凰资讯
-http://ysift55.xyz/52TLK6U/TNLMRY9/269823
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港🎋澳",凤凰资讯
 http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港🎋澳",凤凰资讯
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86.png" group-title="港🎋澳",凤凰卫视
 http://218.206.193.218:8888/hls/67/index.m3u8
-#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/TVB%E6%98%8E%E7%8F%A0.png" group-title="港🎋澳",TVB明珠
-http://ysift55.xyz/live/52TLK6U/TNLMRY9/1052638.ts
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E6%98%9F%E6%B2%B3.png" group-title="港🎋澳",TVB星河
 https://cdn10.123.rr.kg/163189/xinghe/
 #EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVB无线新闻
 http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 #EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVB无线新闻
 http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153399
-#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVB无线新闻
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153399
-#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVB无线新闻
-http://ysift55.xyz/52TLK6U/TNLMRY9/616461
-#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVB娱乐新闻
-http://ysift55.xyz/live/52TLK6U/TNLMRY9/1052635.ts
-#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8.png" group-title="港🎋澳",千禧经典
-http://ysift55.xyz/live/52TLK6U/TNLMRY9/1052632.ts
 #EXTINF:-1 tvg-name="香港佛陀" group-title="港🎋澳",香港佛陀
 https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9C%89%E7%B7%9A%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",有线新闻
@@ -455,14 +425,6 @@ http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3
 http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",寰宇新闻
 http://222.128.55.152:9080/live/hy.m3u8
-#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87.png" group-title="港🎋澳",民视影剧
-http://45.192.97.170:8880/play/1183.m3u8
-#EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E7%B6%9C%E8%97%9D.png" group-title="港🎋澳",民视综艺
-http://45.192.97.170:8880/play/1182.m3u8
-#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png" group-title="港🎋澳",澳门莲花
-http://45.192.97.170:8880/play/1208.m3u8
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/RTHK32.png" group-title="港🎋澳",RTHK32
-http://45.192.97.170:8880/play/1203.m3u8
 #EXTINF:-1 tvg-name="中旺電視" group-title="港🎋澳",中旺電視
 http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
 #EXTINF:-1 tvg-name="東森中國台" group-title="港🎋澳",東森中國台
@@ -505,40 +467,16 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86.png" group-title="港🎋澳",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVBS新闻
-http://45.192.97.170:8880/play/1314.m3u8
-#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E6%AC%A2%E4%B9%90.png" group-title="港🎋澳",TVBS欢乐
-http://45.192.97.170:8880/play/1327.m3u8
-#EXTINF:-1 tvg-name="八大精彩" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9.png" group-title="港🎋澳",八大精彩
-http://45.192.97.170:8880/play/1329.m3u8
-#EXTINF:-1 tvg-name="三立新闻iNEWS" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/INEWS.png" group-title="港🎋澳",三立新闻iNEWS
-http://45.192.97.170:8880/play/1313.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",三立新闻
 https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",中天新闻
 http://222.128.55.152:9080/live/fc.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",中天新闻
-http://45.192.97.170:8880/play/1317.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",中视新闻
-http://45.192.97.170:8880/play/1316.m3u8
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86.png" group-title="港🎋澳",民视
 http://37.27.111.214:8080/live/6/hls.m3u8
-#EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E7%B6%9C%E8%97%9D.png" group-title="港🎋澳",民视综艺
-http://45.192.97.170:8880/play/1321.m3u8
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",寰宇新闻
-http://45.192.97.170:8880/play/1318.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",东森新闻
 http://211.72.174.95:8138/0.ts
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",东森新闻
-http://45.192.97.170:8880/play/1310.m3u8
-#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",东森财经新闻
-http://45.192.97.170:8880/play/1315.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",华视新闻
-http://45.192.97.170:8880/play/1311.m3u8
-#EXTINF:-1 tvg-name="镜电视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%95%9C%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",镜电视新闻
-http://45.192.97.170:8880/play/1309.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",三立新闻
 https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",中天新闻
@@ -555,16 +493,8 @@ http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 https://fast.hidns.vip/163189/rthk32
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/RTHK32.png" group-title="港🎋澳",RTHK32
 https://cdn.123.rr.kg/163189/rthk32
-#EXTINF:-1 tvg-name="RTHKTV31" group-title="港🎋澳",RTHKTV31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-name="RTHKTV31[Geo-blocked]" group-title="港🎋澳",RTHKTV31[Geo-blocked]
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-name="TVBS Asia (1080p)" group-title="港🎋澳",TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-name="TVBS-Asia" group-title="港🎋澳",TVBS-Asia
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E4%BA%9A%E6%B4%B2.png" group-title="港🎋澳",TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E4%BA%9A%E6%B4%B2.png" group-title="港🎋澳",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E4%BA%9A%E6%B4%B2.png" group-title="港🎋澳",TVBS亚洲
@@ -573,16 +503,6 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E4%BA%9A%E6%B4%B2.png" group-title="港🎋澳",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
-#EXTINF:-1 tvg-name="TVBS亞洲" group-title="港🎋澳",TVBS亞洲
-http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
-#EXTINF:-1 tvg-name="TVBS亞洲" group-title="港🎋澳",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 tvg-name="TVBS亞洲" group-title="港🎋澳",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
-#EXTINF:-1 tvg-name="TVBS亞洲" group-title="港🎋澳",TVBS亞洲
-http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 tvg-name="TVBS亞洲" group-title="港🎋澳",TVBS亞洲
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVBS新闻
 http://jnzq.ohoyee.com:9080/live/332123-tvbsxw.m3u8
 #EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVB无线新闻
@@ -595,44 +515,16 @@ http://iactive-clink.com:8081/live/yifaTV-007.m3u8
 http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:42:10:51&stream=1495601
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E6%98%9F%E6%B2%B3.png" group-title="港🎋澳",TVB星河
 https://10.fast.hidns.vip/163189/xinghe/
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E6%98%9F%E6%B2%B3.png" group-title="港🎋澳",TVB星河
-http://31.43.191.125:8080/restream/restream/34560
-#EXTINF:-1 tvg-name="三立台湾" group-title="港🎋澳",三立台湾
-http://31.43.191.125:8080/restream/restream/34806
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",三立新闻
-http://31.43.191.125:8080/restream/restream/34805
-#EXTINF:-1 tvg-name="三立综合" group-title="港🎋澳",三立综合
-http://31.43.191.125:8080/restream/restream/34907
 #EXTINF:-1 tvg-name="东森幼幼台" group-title="港🎋澳",东森幼幼台
 https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",东森新闻
-http://31.43.191.125:8080/restream/restream/34905
-#EXTINF:-1 tvg-name="东森综合" group-title="港🎋澳",东森综合
-http://31.43.191.125:8080/restream/restream/34902
-#EXTINF:-1 tvg-name="东森综合" group-title="港🎋澳",东森综合
-http://31.43.191.125:8080/restream/restream/34814
 #EXTINF:-1 tvg-name="东森美洲" group-title="港🎋澳",东森美洲
 https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 #EXTINF:-1 tvg-name="中天亚洲" group-title="港🎋澳",中天亚洲
 http://tv.cloudcdn.me:80/live.ts?uid=4280&deviceMac=00:1A:79:17:C1:7F&channelId=133119
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",中天新闻
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34817
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",中天新闻
-http://31.43.191.125:8080/restream/restream/34817
-#EXTINF:-1 tvg-name="中天综合" group-title="港🎋澳",中天综合
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34898
-#EXTINF:-1 tvg-name="中天综合" group-title="港🎋澳",中天综合
-http://31.43.191.125:8080/restream/restream/34898
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%AD%E8%A7%86.png" group-title="港🎋澳",中視
 http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%AD%E8%A7%86.png" group-title="港🎋澳",中視
 https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",中视新闻
-http://31.43.191.125:8080/restream/restream/34896
-#EXTINF:-1 tvg-name="中视经典" group-title="港🎋澳",中视经典
-http://31.43.191.125:8080/restream/restream/34895
-#EXTINF:-1 tvg-name="中视菁采" group-title="港🎋澳",中视菁采
-http://31.43.191.125:8080/restream/restream/34894
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86.png" group-title="港🎋澳",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-name="公視" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%85%AC%E8%A7%86.png" group-title="港🎋澳",公視
@@ -674,15 +566,9 @@ http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",台视新闻
-http://ysift55.xyz/52TLK6U/TNLMRY9/269922
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",台视新闻
-http://31.43.191.125:8080/restream/restream/34878
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",台视新闻
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",台视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",寰宇新闻
-http://31.43.191.125:8080/restream/restream/34870
 #EXTINF:-1 tvg-name="有線新聞" group-title="港🎋澳",有線新聞
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
 #EXTINF:-1 tvg-name="有線財經信息台" group-title="港🎋澳",有線財經信息台
@@ -692,19 +578,13 @@ http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9C%89%E7%B7%9A%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9C%89%E7%B7%9A%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",有线新闻
-http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
-#EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9C%89%E7%B7%9A%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",有线新闻
 http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
-#EXTINF:-1 tvg-name="東森幼幼台" group-title="港🎋澳",東森幼幼台
-https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
 #EXTINF:-1 tvg-name="東森戲劇" group-title="港🎋澳",東森戲劇
 https://epg.pw/stream/5dc124caeeb73ea07e5542cca877600b90f87a42e72b579e267528c3411b073f.m3u8
 #EXTINF:-1 tvg-name="東森新聞" group-title="港🎋澳",東森新聞
 https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8
 #EXTINF:-1 tvg-name="東森綜合" group-title="港🎋澳",東森綜合
 https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
-#EXTINF:-1 tvg-name="東森美洲" group-title="港🎋澳",東森美洲
-https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 #EXTINF:-1 tvg-name="東森財經" group-title="港🎋澳",東森財經
 https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8
 #EXTINF:-1 tvg-name="東森超視" group-title="港🎋澳",東森超視
@@ -712,19 +592,7 @@ https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06e
 #EXTINF:-1 tvg-name="民視" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86.png" group-title="港🎋澳",民視
 https://epg.pw/stream/446ff2630964ca5ddcb9f9cb6d4e1a5f2ca1dca875b2a4e1c462b9e5cf83b77d.m3u8
 #EXTINF:-1 tvg-name="民視新聞 HD" group-title="港🎋澳",民視新聞 HD
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-name="民視新聞 HD" group-title="港🎋澳",民視新聞 HD
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港🎋澳",民視新聞台
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86.png" group-title="港🎋澳",民视
-http://31.43.191.125:8080/restream/restream/34862
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",民视新闻
-http://45.192.97.170:8880/play/1312.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 tvg-name="緯來綜合" group-title="港🎋澳",緯來綜合
@@ -737,26 +605,12 @@ https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02
 https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 #EXTINF:-1 tvg-name="緯來體育" group-title="港🎋澳",緯來體育
 https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
-#EXTINF:-1 tvg-name="纬来 体育台" group-title="港🎋澳",纬来 体育台
-https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
-#EXTINF:-1 tvg-name="纬来体育" group-title="港🎋澳",纬来体育
-https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
-#EXTINF:-1 tvg-name="纬来体育" group-title="港🎋澳",纬来体育
-https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
-#EXTINF:-1 tvg-name="纬来体育" group-title="港🎋澳",纬来体育
-https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
-#EXTINF:-1 tvg-name="纬来体育" group-title="港🎋澳",纬来体育
-http://31.43.191.125:8080/restream/restream/34855
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港🎋澳",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
-#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",非凡新闻
-http://31.43.191.125:8080/restream/restream/34832
 #EXTINF:-1 tvg-name="香港C+" group-title="港🎋澳",香港C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 #EXTINF:-1 tvg-name="香港卫视" group-title="港🎋澳",香港卫视
 https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
-#EXTINF:-1 tvg-name="香港卫视" group-title="港🎋澳",香港卫视
-http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 #EXTINF:-1 tvg-name="香港卫视" group-title="港🎋澳",香港卫视
 https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 #EXTINF:-1 tvg-name="香港卫视" group-title="港🎋澳",香港卫视
@@ -769,160 +623,68 @@ http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
 https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
 #EXTINF:-1 tvg-name="鳳凰香港台" group-title="港🎋澳",鳳凰香港台
 https://epg.pw/stream/27b49ba568efc8dcc9af6a79ec06ffd4a2e354e3e2060143be83fca695edf46e.m3u8
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="港🎋澳",龙华戏剧
-http://31.43.191.125:8080/restream/restream/34829
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",寰宇新闻
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=74dff16b9a15e132f3f6f1e492798fdc;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="八大综艺" group-title="港🎋澳",八大综艺
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3831ae147835333a274b639c1fc781f8;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="三立台湾" group-title="港🎋澳",三立台湾
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5bc6e57495b4d08a3ec4fdf5d875d30f;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",中天新闻
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4a789f0e146848bda0dee842cba28533;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",非凡新闻
 http://iptv.4666888.xyz/iptv2A.php?id=44
-#EXTINF:-1 tvg-name="民视台湾" group-title="港🎋澳",民视台湾
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=33ff2e131e511e896174ecbd0f45bed9;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",台视新闻
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=dfa730d8cc9556fa4a435083426192c8;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86.png" group-title="港🎋澳",民视
 http://iptv.4666888.xyz/iptv2A.php?id=55
 #EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E7%B6%9C%E8%97%9D.png" group-title="港🎋澳",民视综艺
 http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 tvg-name="八大综合" group-title="港🎋澳",八大综合
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=57304f1b743cb4299271bd12e5aa967d;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="港🎋澳",龙华电影
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=e0a07815c0135b40d44dc9c846f61b48;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="Now TV70s" group-title="港🎋澳",Now TV70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",台视新闻
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156398
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="港🎋澳",龙华电影
 http://8.fast.hidns.vip/163189/lhdy
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVBS新闻
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469690bbd713c31465d;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86.png" group-title="港🎋澳",民视
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=1f5cb7f8687ab60efbdb4cb4190d355b;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVB娱乐新闻
-http://ysift55.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052635.ts
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",台视新闻
-http://ysift55.xyz/WJ74AC4SRKQQYR7/pahruAQRs8/269922
-#EXTINF:-1 tvg-name="纬来体育" group-title="港🎋澳",纬来体育
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c0331d87d7f452e2b16f03a3b0a2b267;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",华视新闻
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f33de20f378bbcb4bbd1cc681a50458b;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVB无线新闻
-http://ysift55.xyz/WJ74AC4SRKQQYR7/pahruAQRs8/616461
-#EXTINF:-1 tvg-name="三立综合" group-title="港🎋澳",三立综合
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8aecc82e93bfaa9d9af5be0ed451cc7a;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="港🎋澳",龙华戏剧
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c47a015df8a7d023b2aeb8e8ede6be2b;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVB娱乐新闻
 http://iptv.4666888.xyz/iptv2A.php?id=36
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=20d2d96308e5b86aa632cdb8113b2313;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E6%AC%A2%E4%B9%90.png" group-title="港🎋澳",TVBS欢乐
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=a2309b6cbfc99db79ceefc6cdc56b325;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港🎋澳",凤凰资讯
 http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="靖天电影" group-title="港🎋澳",靖天电影
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f61adc3051393878503f5c0e6baa5983;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87.png" group-title="港🎋澳",民视影剧
 http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
 http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="Now TV90s00s" group-title="港🎋澳",Now TV90s00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-name="八大戏剧" group-title="港🎋澳",八大戏剧
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=dbaf0c3e821465da8b67a1fc2c1c7aa5;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",民视新闻
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8a3146fd1b1204004ca552fb283c318d;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="Now TVRock" group-title="港🎋澳",Now TVRock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBVietnam" group-title="港🎋澳",TVBVietnam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
 http://156.238.224.170:7001/fhx.php?id=cn
-#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",非凡新闻
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8a4f70c55fe2c1226d0ff966ce5169f4;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8.png" group-title="港🎋澳",千禧经典
 http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 tvg-name="民视第一" group-title="港🎋澳",民视第一
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b76755690d6750fa94321fcbfed67464;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港🎋澳",凤凰资讯
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=114695
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港🎋澳",翡翠台
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/TVB%E6%98%8E%E7%8F%A0.png" group-title="港🎋澳",TVB明珠
 http://iptv.4666888.xyz/iptv2A.php?id=29
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
-http://ysift55.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052575.ts
 #EXTINF:-1 tvg-name="靖天电影" group-title="港🎋澳",靖天电影
 http://iptv.4666888.xyz/iptv2A.php?id=56
-#EXTINF:-1 tvg-name="八大第一" group-title="港🎋澳",八大第一
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=79c7f8374ac31ebe8db8767247903099;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港🎋澳",凤凰资讯
-http://ysift55.xyz/WJ74AC4SRKQQYR7/pahruAQRs8/269823
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVBS新闻
 http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",中天新闻
-http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34817
-#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87.png" group-title="港🎋澳",民视影剧
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=744de097f81d15478300732b8a640ae3;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8.png" group-title="港🎋澳",千禧经典
-http://ysift55.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052632.ts
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",东森新闻
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4a80586d55204ad1d9a0e7a0b8066fac;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="东森综合" group-title="港🎋澳",东森综合
 http://iptv.4666888.xyz/iptv2A.php?id=58
 #EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8.png" group-title="港🎋澳",千禧经典
 http://tv.cloudcdn.me:80/live.ts?uid=4280&deviceMac=00:1A:79:17:C1:7F&channelId=133057
-#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/TVB%E6%98%8E%E7%8F%A0.png" group-title="港🎋澳",TVB明珠
-http://ysift55.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052638.ts
-#EXTINF:-1 tvg-name="东森戏剧" group-title="港🎋澳",东森戏剧
-http://ysift55.xyz/WJ74AC4SRKQQYR7/pahruAQRs8/269925
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",华视新闻
-http://31.43.191.125:8080/restream/restream/34886
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港🎋澳",凤凰资讯
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c23cb91e28540bf120c96780829055cc;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="NOW TV (720p)" group-title="港🎋澳",NOW TV (720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9C%89%E7%B7%9A%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",有线新闻
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-name="东森电影" group-title="港🎋澳",东森电影
 http://iptv.4666888.xyz/iptv2A.php?id=48
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/RTHK32.png" group-title="港🎋澳",RTHK32
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=d3fd85166b5abb79502d872ec49b1f61;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港🎋澳",凤凰资讯
 http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=fhzx
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港🎋澳",翡翠台
 http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E7%B6%9C%E8%97%9D.png" group-title="港🎋澳",民视综艺
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=04079f48cbe86ce355ebdd255a715460;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="VIU" group-title="港🎋澳",VIU
 https://cdn.123.rr.kg/163189/viu
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
 http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=fhzw
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",中视新闻
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=37aac0d83374389325d4b3e1e9b8f9b7;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="东森戏剧" group-title="港🎋澳",东森戏剧
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=0d8ed9cd9a4853288e1a68aa64cded0c;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="东森综合" group-title="港🎋澳",东森综合
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=524d539ec5fb663b50a7ebdb075c2e8c;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",三立新闻
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7f87b183d2fc14254c78c63883271264;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="三立都会" group-title="港🎋澳",三立都会
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8126a2f0dfb0da5ec87431b39fb8b636;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="VIU" group-title="港🎋澳",VIU
 https://10.fast.hidns.vip/163189/viu/
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",中天新闻
 http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
 #EXTINF:-1 tvg-name="美亚电影" group-title="港🎋澳",美亚电影
 http://iptv.4666888.xyz/iptv2A.php?id=30
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" group-title="港🎋澳",凤凰香港
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=aff37a7016d2f0ae2cab0c213a506bc0;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="面包台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%A2%E5%8C%85%E5%8F%B0.png" group-title="港🎋澳",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" group-title="港🎋澳",TVB Plus
@@ -935,6 +697,28 @@ https://cdn3.indevs.in/stream/tvb/fct4k/
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86.png" group-title="港🎋澳",星空卫视
 http://116.77.33.98:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="翡翠台_2" group-title="港🎋澳",翡翠台_2
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+#EXTINF:-1 tvg-name="亚洲剧集" group-title="港🎋澳",亚洲剧集
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+#EXTINF:-1 tvg-name="美亚电影" group-title="港🎋澳",美亚电影
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+#EXTINF:-1 tvg-name="美亚电影_2" group-title="港🎋澳",美亚电影_2
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
+#EXTINF:-1 tvg-name="美亚电影_3" group-title="港🎋澳",美亚电影_3
+http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
+#EXTINF:-1 tvg-name="KIX台" group-title="港🎋澳",KIX台
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
+#EXTINF:-1 tvg-name="凤凰资讯_2" group-title="港🎋澳",凤凰资讯_2
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 tvg-name="翡翠台_3" group-title="港🎋澳",翡翠台_3
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-name="大立电视台" group-title="港🎋澳",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-name="原住民族电视台" group-title="港🎋澳",原住民族电视台
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-name="CGNTV中文台" group-title="港🎋澳",CGNTV中文台
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 #EXTINF:-1 tvg-name="AMC 电影台音乐" group-title="电🎬影",AMC 电影台音乐
 https://AMChls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="电🎬影",CCTV怀旧剧场
