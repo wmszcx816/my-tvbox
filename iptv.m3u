@@ -719,6 +719,44 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-name="CGNTV中文台" group-title="港🎋澳",CGNTV中文台
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/LoveNature.png" group-title="港🎋澳",Love Nature 4K
+http://zby.lskk.top/cdnlive.php?mode=play&id=71a121520a24fd15401c0f90625981e1&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="纬来体育" group-title="港🎋澳",纬来体育
+http://zby.lskk.top/cdnlive.php?mode=play&id=727fa47e10abaa40752552235048a554&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E6%AC%A2%E4%B9%90.png" group-title="港🎋澳",TVBS欢乐
+http://zby.lskk.top/cdnlive.php?mode=play&id=a2309b6cbfc99db79ceefc6cdc56b325&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="八大综合" group-title="港🎋澳",八大综合
+http://zby.lskk.top/cdnlive.php?mode=play&id=57304f1b743cb4299271bd12e5aa967d&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="八大综艺" group-title="港🎋澳",八大综艺
+http://zby.lskk.top/cdnlive.php?mode=play&id=3831ae147835333a274b639c1fc781f8&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="三立iNEWS" group-title="港🎋澳",三立iNEWS
+http://zby.lskk.top/cdnlive.php?mode=play&id=e33696616f15fbec121f05d66fcb4eae&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="三立台湾" group-title="港🎋澳",三立台湾
+http://zby.lskk.top/cdnlive.php?mode=play&id=5bc6e57495b4d08a3ec4fdf5d875d30f&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="三立都会" group-title="港🎋澳",三立都会
+http://zby.lskk.top/cdnlive.php?mode=play&id=8126a2f0dfb0da5ec87431b39fb8b636&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="三立综合" group-title="港🎋澳",三立综合
+http://zby.lskk.top/cdnlive.php?mode=play&id=8aecc82e93bfaa9d9af5be0ed451cc7a&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="中天综合" group-title="港🎋澳",中天综合
+http://zby.lskk.top/cdnlive.php?mode=play&id=c0331d87d7f452e2b16f03a3b0a2b267&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="中视菁采" group-title="港🎋澳",中视菁采
+http://zby.lskk.top/cdnlive.php?mode=play&id=becfc1b619191c8f324907067c1acd13&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="中视经典" group-title="港🎋澳",中视经典
+http://zby.lskk.top/cdnlive.php?mode=play&id=ccc494fbbbf9a526ffe5dfa40aa86e1d&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="民视台湾" group-title="港🎋澳",民视台湾
+http://zby.lskk.top/cdnlive.php?mode=play&id=33ff2e131e511e896174ecbd0f45bed9&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="民视第一" group-title="港🎋澳",民视第一
+http://zby.lskk.top/cdnlive.php?mode=play&id=b76755690d6750fa94321fcbfed67464&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="民视旅游" group-title="港🎋澳",民视旅游
+http://zby.lskk.top/cdnlive.php?mode=play&id=73c20b6f33eefacf760556a87753bb24&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png" group-title="港🎋澳",澳门莲花
+http://zby.lskk.top/cdnlive.php?mode=play&id=2d267162eb55f961871560106c143a50&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="CNA" group-title="港🎋澳",CNA
+http://zby.lskk.top/cdnlive.php?mode=play&id=d6873ce576957c64f936ba58c63d0485&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="CN卡通" group-title="港🎋澳",CN卡通
+http://zby.lskk.top/cdnlive.php?mode=play&id=719f97d8d7f370913f80a4e5b92316cb&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%5BTW-II%5D018%E5%85%AC%E8%A6%96%E6%88%B2%E5%8A%87.png" group-title="港🎋澳",公视戏剧
+http://zby.lskk.top/cdnlive.php?mode=play&id=d48208e1bde7acb7cb7cf7d09dc9f30c&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 #EXTINF:-1 tvg-name="AMC 电影台音乐" group-title="电🎬影",AMC 电影台音乐
 https://AMChls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="电🎬影",CCTV怀旧剧场
@@ -863,6 +901,10 @@ http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjian
 http://xhyx.gz.cn:1698/hls/93/index.m3u8
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1.png" group-title="电🎬影",靖天电影
 http://zby.lskk.top/cdnlive.php?mode=play&id=f61adc3051393878503f5c0e6baa5983&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="Thrill" group-title="电🎬影",Thrill
+http://zby.lskk.top/cdnlive.php?mode=play&id=a5f799ea7465e196f726736ff8551980&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="MoreMax" group-title="电🎬影",MoreMax
+http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
 #EXTINF:-1 tvg-name="惊艳1" group-title="松🎋视",惊艳1
 rtmp://112.29.121.74/live/易發TV-jyt
 #EXTINF:-1 tvg-name="香蕉2" group-title="松🎋视",香蕉2
