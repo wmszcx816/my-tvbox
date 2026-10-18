@@ -61,7 +61,7 @@ CCTV5,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV5.png
 CCTV5+,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV5%2B.png
 CCTV5+体育赛事,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png
 CCTV5体育,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV5.png
-CCTV6,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV6.png
+CCTV6,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/CCTV6.png
 CCTV6电影,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/CCTV-6%E7%94%B5%E5%BD%B1.png
 CCTV7,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV7.png
 CCTV7国防军事,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV7.png
@@ -131,6 +131,7 @@ tvbs,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS.png
 东森美洲2,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%9C%E6%A3%AE%E7%BE%8E%E6%B4%B2.png
 东森财经新闻,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB.png
 东森超视,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86.png
+东阳影视生活,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%9C%E9%98%B3%E5%BD%B1%E8%A7%86%E7%94%9F%E6%B4%BB.png
 中国农林卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.png
 中天娱乐,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%AD%E5%A4%A9%E5%A8%9B%E6%A8%82.png
 中天新闻,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png
@@ -167,14 +168,17 @@ tvbs,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS.png
 南京十八频道,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93.png
 南京教科频道,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93.png
 南京新闻综合频道,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png
+南宁影视娱乐,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%8D%97%E5%AE%81%E5%BD%B1%E8%A7%86%E5%A8%B1%E4%B9%90.png
 厦门卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png
 发现之旅,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85.png
+句容影院,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%8F%A5%E5%AE%B9%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png
 台視,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86.png
 台視新聞台,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png
 台视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86.png
 台视新闻,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png
 台视财经,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F.png
 吉林卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png
+哈尔滨影视,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%93%88%E5%B0%94%E6%BB%A8%E5%BD%B1%E8%A7%86.png
 唯心电视,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%94%AF%E5%BF%83%E7%94%B5%E8%A7%86.png
 唯心電視,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%94%AF%E5%BF%83%E7%94%B5%E8%A7%86.png
 四川卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png
@@ -193,6 +197,7 @@ tvbs,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS.png
 广东卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png
 广东珠江,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png
 广州南国都市,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%B9%BF%E5%B7%9E%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%82.png
+广州影视,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%B9%BF%E5%B7%9E%E5%BD%B1%E8%A7%86.png
 广西卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png
 彩虹,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9.png
 彩虹E,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9E.png
@@ -234,12 +239,15 @@ tvbs,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS.png
 河北卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png
 河南卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png
 浙江卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png
+浙江影视,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B5%99%E6%B1%9F%E5%BD%B1%E8%A7%86.png
+浙江教科影视,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B5%99%E6%B1%9F%E6%95%99%E7%A7%91%E5%BD%B1%E8%A7%86.png
 海南卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png
 海南广播电视总台少儿频道,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B5%B7%E5%8D%97%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93.png
 海南广播电视总台文旅频道,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B5%B7%E5%8D%97%E6%96%87%E6%97%85.png
 海南广播电视总台新闻频道,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B5%B7%E5%8D%97%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png
 海南广播电视总台自贸频道,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8.png
 海峡卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png
+淮安影院娱乐,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B7%AE%E5%AE%89%E5%BD%B1%E8%A7%86%E5%A8%B1%E4%B9%90.png
 淮安新闻综合,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png
 深圳卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png
 港台电视31,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8631.png
@@ -258,6 +266,7 @@ tvbs,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS.png
 生命电视,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E7%94%9F%E5%91%BD%E7%94%B5%E8%A7%86.png
 精选动漫台,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E7%B2%BE%E9%81%B8%E5%8B%95%E6%BC%AB%E5%8F%B0.png
 纬来精采,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E7%B7%AF%E4%BE%86%E7%B2%BE%E9%87%87.png
+绍兴文化影院,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E7%BB%8D%E5%85%B4%E6%96%87%E5%8C%96%E5%BD%B1%E8%A7%86.png
 经典电影台,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E7%B6%93%E5%85%B8%E9%9B%BB%E5%BD%B1%E5%8F%B0.png
 翡翠台,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png
 耀才财经,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%80%80%E6%89%8D%E8%B4%A2%E7%BB%8F.png
@@ -269,6 +278,7 @@ tvbs,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS.png
 贵州卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png
 赛事最经典,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8.png
 辽宁卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png
+辽宁影视剧,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E8%BE%BD%E5%AE%81%E5%BD%B1%E8%A7%86%E5%89%A7.png
 连云港新闻综合,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png
 采昌影剧台,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%87%87%E6%98%8C%E5%BD%B1%E5%89%A7%E5%8F%B0.png
 重庆卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png
@@ -284,6 +294,7 @@ tvbs,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS.png
 青海卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png
 靖天戏剧台,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7%E5%8F%B0.png
 靖天映画,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png
+靖天电影,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1.png
 靖天电影台,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1%E5%8F%B0.png
 靖洋戏剧台,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%96%E6%B4%8B%E6%88%8F%E5%89%A7%E5%8F%B0.png
 非凡新闻,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB.png
@@ -294,6 +305,7 @@ tvbs,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS.png
 香蕉,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%A6%99%E8%95%89.png
 香蕉台,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%A6%99%E8%95%89%E5%8F%B0.png
 黑龙江卫视,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png
+黑龙江影视,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%BD%B1%E8%A7%86.png
 龙华偶像,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png
 龙华卡通,https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%BE%99%E5%8D%8E%E5%8D%A1%E9%80%9A.png
 龙华戏剧,https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png
