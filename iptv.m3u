@@ -26,7 +26,7 @@ http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV13.png" group-title="央🎋视",CCTV13
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV14.png" group-title="央🎋视",CCTV14
-http://198.204.228.26/live/cctv14hd.m3u8
+http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV15.png" group-title="央🎋视",CCTV15
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/CCTV16.png" group-title="央🎋视",CCTV16
@@ -72,7 +72,7 @@ http://198.204.228.26/live/sdwshd.m3u8
 #EXTINF:-1 tvg-name="廣西衛視HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BB%A3%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="卫🎋视",廣西衛視HD
 http://198.204.228.26/live/gxwshd.m3u8
 #EXTINF:-1 tvg-name="重慶衛視HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="卫🎋视",重慶衛視HD
-http://198.204.228.26/live/cqws.m3u8
+http://198.204.228.26/live/cqwshd.m3u8
 #EXTINF:-1 tvg-name="四川衛視HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="卫🎋视",四川衛視HD
 http://198.204.228.26/live/scwshd.m3u8
 #EXTINF:-1 tvg-name="東南衛視HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%B1%E5%8D%97%E8%A1%9B%E8%A6%96.png" group-title="卫🎋视",東南衛視HD
