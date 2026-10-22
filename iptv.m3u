@@ -825,52 +825,38 @@ http://zby.lskk.top/cdnlive.php?mode=play&id=f61adc3051393878503f5c0e6baa5983&to
 http://zby.lskk.top/cdnlive.php?mode=play&id=a5f799ea7465e196f726736ff8551980&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 #EXTINF:-1 tvg-name="MoreMax" group-title="电🎬影",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
-#EXTINF:-1 tvg-name="惊艳1" group-title="松🎋视",惊艳1
-rtmp://112.29.121.74/live/易發TV-jyt
-#EXTINF:-1 tvg-name="香蕉2" group-title="松🎋视",香蕉2
-rtmp://112.29.121.74/live/易發TV-xjt
-#EXTINF:-1 tvg-name="惊艳2" group-title="松🎋视",惊艳2
-http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
-#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%83%8A%E8%89%B3.png" group-title="松🎋视",惊艳
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 tvg-name="潘多啦" group-title="松🎋视",潘多啦
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 tvg-name="松视1" group-title="松🎋视",松视1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 tvg-name="松视2" group-title="松🎋视",松视2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 tvg-name="松视3" group-title="松🎋视",松视3
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 #EXTINF:-1 tvg-name="彩虹" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9.png" group-title="松🎋视",彩虹
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 tvg-name="松1" group-title="松🎋视",松1
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 tvg-name="松2" group-title="松🎋视",松2
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 tvg-name="松3" group-title="松🎋视",松3
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%A6%99%E8%95%89.png" group-title="松🎋视",香蕉
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
-#EXTINF:-1 tvg-name="惊艳1" group-title="松🎋视",惊艳1
-rtmp://112.29.121.74/live/易發TV-jyt
-#EXTINF:-1 tvg-name="香蕉2" group-title="松🎋视",香蕉2
-rtmp://112.29.121.74/live/易發TV-xjt
-#EXTINF:-1 tvg-name="惊艳2" group-title="松🎋视",惊艳2
-http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
-#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%83%8A%E8%89%B3.png" group-title="松🎋视",惊艳
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 #EXTINF:-1 tvg-name="潘多啦" group-title="松🎋视",潘多啦
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 tvg-name="彩虹" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9.png" group-title="松🎋视",彩虹
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 tvg-name="松1" group-title="松🎋视",松1
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 tvg-name="松2" group-title="松🎋视",松2
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 tvg-name="松3" group-title="松🎋视",松3
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%A6%99%E8%95%89.png" group-title="松🎋视",香蕉
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%83%8A%E8%89%B3.png" group-title="松🎋视",惊艳
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 tvg-name="极限电影台" group-title="松🎋视",极限电影台
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8
 #EXTINF:-1 tvg-name="松视1台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A6%961%E5%8F%B0.png" group-title="松🎋视",松视1台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c85giea/index.m3u8
 #EXTINF:-1 tvg-name="松视2台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A6%962%E5%8F%B0.png" group-title="松🎋视",松视2台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 tvg-name="松视3台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A6%963%E5%8F%B0.png" group-title="松🎋视",松视3台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
+#EXTINF:-1 tvg-name="香焦台HD" group-title="松🎋视",香焦台HD
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc123/index.m3u8
+#EXTINF:-1 tvg-name="潘多啦完美" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%BD%98%E5%A4%9A%E6%8B%89%E5%AE%8C%E7%BE%8E.png" group-title="松🎋视",潘多啦完美
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855d75/index.m3u8
+#EXTINF:-1 tvg-name="HAPPY" group-title="松🎋视",HAPPY
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc125/index.m3u8
+#EXTINF:-1 tvg-name="彩虹E" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9E.png" group-title="松🎋视",彩虹E
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855daa/index.m3u8
+#EXTINF:-1 tvg-name="驚艷台HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%83%8A%E8%89%B3.png" group-title="松🎋视",驚艷台HD
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/sajdxxzc/index.m3u8
+#EXTINF:-1 tvg-name="惊艳2" group-title="松🎋视",惊艳2
+http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%A6%99%E8%95%89.png" group-title="松🎋视",香蕉
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
 #EXTINF:-1 tvg-name="Fetish HD" group-title="松🎋视",Fetish HD
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 tvg-name="Interracial HD" group-title="松🎋视",Interracial HD
