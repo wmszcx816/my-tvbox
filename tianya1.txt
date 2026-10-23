@@ -30,10 +30,12 @@ CCTV5+,http://124.228.160.112:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1
 浙江卫视,http://8.138.7.223/tv/xxqg1.php?id=zjws
 安徽卫视,http://8.138.7.223/tv/xxqg1.php?id=ahws
 东南卫视,http://101.66.195.232:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+厦门卫视,http://120.198.86.251:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://8.138.7.223/tv/xxqg1.php?id=sdws
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 湖北卫视,http://8.138.7.223/tv/xxqg1.php?id=hbws
+湖南卫视,http://120.198.86.251:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://8.138.7.223/tv/xxqg1.php?id=gdws
 广西卫视,http://8.138.7.223/tv/xxqg1.php?id=gxws
 海南卫视,https://livelyws1.chinamcache.com/lyws/newlive_zb03.m3u8?auth_key=1767148001-0-0-0650c6542c331540df214a79a09a2356
@@ -982,4 +984,18 @@ DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_
 车载DJ殇雪,https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
 心在跳情在烧,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
 
+港台频道,#genre#
+凤凰中文FHD,http://218.206.193.218:8888/hls/110/index.m3u8
+凤凰资讯FHD,http://218.206.193.218:8888/hls/109/index.m3u8
+凤凰中文FHD,http://112.92.129.96:9898/hls/128/index.m3u8
 
+电影频道,#genre#
+CHC家庭影院,http://112.92.129.96:9898/hls/118/index.m3u8
+CHC动作电影,http://112.92.129.96:9898/hls/119/index.m3u8
+CHC影迷电影,http://112.92.129.96:9898/hls/53/index.m3u8
+星爷轮播,http://8.155.43.98:35455/huya/11342412
+长影频道,http://61.138.128.226:29901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+峨眉电影,http://8505255.xyz:5678/四川/峨眉电影
+相声小品,http://120.238.84.45:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+2026央视春晚,https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
+2026央视春晚,http://k0u71y9yaay1czw2408x8000x8010xf100xx13z.djvod.ndcimgs.com/bs3/video-hls/5217138884748736407_74edbb50d17ce1c5_5674_hlsb.m3u8
