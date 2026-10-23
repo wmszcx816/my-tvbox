@@ -1,0 +1,440 @@
+港澳,#genre#
+[港]翡翠台,tvbus://360p/1
+[港]明珠台,tvbus://360p/2
+[港]无线新闻,tvbus://360p/3
+[港]无线财经资讯,tvbus://360p/4
+[港]TVB PLUS,tvbus://360p/5
+[港]星河台,tvbus://360p/6
+[港]无线星河Classic,tvbus://360p/7
+[港]无线经典台Classic,tvbus://360p/8
+[港]无线新闻2台,Tvbus://360p/9
+[港]翡翠2台,tvbus://360p/10
+[港]ViuTV,tvbus://360p/11
+[港]ViuTV6,tvbus://360p/12
+[港]ViuTV6,Fdy:/jPj7GsA8
+[港]ViuTV体育,tvbus://360p/13
+[港]HOY TV,tvbus://360p/14
+[港]HOY TV资讯,tvbus://360p/15
+[港]HOY TV财经,tvbus://360p/16
+[港]HOY国际财经,tvbus://360p/17
+[港]香港卫视,tvbus://360p/18
+[港]凤凰卫视香港台,tvbus://360p/21
+[港]凤凰卫视中文台,tvbus://360p/22
+[港]凤凰卫视资讯台,tvbus://360p/23
+[港]凤凰卫视香港台,tvbus://360p/24
+[港]凤凰卫视香港台Cantonese,tvbus://360p/25
+[港]Star Movies GOLD,tvbus://360p/26
+[港]ViuTV六台,tvbus://360p/28
+[港]ROCK ACTION,tvbus://360p/31
+[港]KIX,tvbus://360p/32
+[港]KBS World,tvbus://360p/37
+[港]TVB Plus,tvbus://360p/38
+[港]NOW直播台,tvbus://360p/23
+[港]Now Sports 1,tvbus://360p/40
+[港]Now Sports 2,tvbus://360p/41
+[港]Now Sports 3,tvbus://360p/42
+[港]Now Sports 4,tvbus://360p/43
+[港]Now Sports Plus,tvbus://360p/44
+[港]Now 财经台,tvbus://360p/45
+[港]Now 新闻台,tvbus://360p/46
+[港]Now 直播台,tvbus://360p/47
+[港]Now 新闻2台,tvbus://360p/48
+[港]Now 财经2台,tvbus://360p/49
+[港]Now 财经资讯3台,tvbus://360p/50
+[港]Now 体育,tvbus://360p/51
+[港]Now 体育4台,tvbus://360p/52
+[港]Now 体育5台,tvbus://360p/53
+[港]Now 体育6台,tvbus://360p/54
+[港]Now 体育7台,tvbus://360p/55
+[港]Now 体育88台,tvbus://360p/56
+[港]Now 体育90台,tvbus://360p/57
+[港]Now 体育91台,tvbus://360p/58
+[港]Now 体育92台,tvbus://360p/59
+[港]Now 体育95台,tvbus://360p/60
+[港]Now 体育96台,tvbus://360p/61
+[港]Now 体育97台,tvbus://360p/62
+[港]Now 体育98台,tvbus://360p/63
+[港]Now 体育99台,tvbus://360p/64
+[港]Now Sports Test,tvbus://360p/65
+[港]RTHK 31,tvbus://360p/70
+[港]RTHK 32,tvbus://360p/71
+[港]RTHK 33,tvbus://360p/72
+[港]RTHK 34,tvbus://360p/73
+[港]RTHK 35,tvbus://360p/74
+[港]Facebook Live,tvbus://360p/75
+[港]TVBS 新闻,tvbus://360p/75
+[港]TVBS,tvbus://180p/75
+[港]TVB翡翠伴音,tvbus://360p/1
+港澳,#genre#
+[港]KBS World 36,tvbus://360p/36
+[港]翡翠台,tvbus://360p/160
+[港]明珠台,tvbus://360p/161
+[港]无线新闻,tvbus://360p/162
+[港]无线财经资讯,tvbus://360p/163
+[港]翡翠2台,tvbus://360p/164
+[港]无线星河Classic,tvbus://360p/165
+[港]无线经典台Classic,tvbus://360p/166
+[港]ViuTV,tvbus://360p/167
+[港]ViuTV6,tvbus://360p/168
+[港]HOY TV,tvbus://360p/169
+[港]HOY TV资讯,tvbus://360p/170
+[港]香港卫视,tvbus://360p/171
+[港]凤凰卫视中文台,tvbus://360p/172
+[港]凤凰卫视资讯台,tvbus://360p/173
+[港]Now 财经台,tvbus://360p/174
+[港]Now 新闻台,tvbus://360p/175
+[港]Now 直播台,tvbus://360p/176
+[港]Now 新闻2台,tvbus://360p/177
+[港]Now 财经2台,tvbus://360p/178
+[港]Now Sports 1,tvbus://360p/179
+[港]Now Sports 2,tvbus://360p/180
+[港]Now Sports 3,tvbus://360p/181
+[港]Now Sports 4,tvbus://360p/182
+[港]Now Sports Plus,tvbus://360p/183
+[港]RTHK 31,tvbus://360p/184
+[港]RTHK 32,tvbus://360p/185
+[港]RTHK 33,tvbus://360p/186
+[港]RTHK 34,tvbus://360p/187
+[港]RTHK 35,tvbus://360p/188
+[港]TVB PLUS,tvbus://360p/189
+港澳,#genre#
+[港]翡翠台,tvbus://p6p/1
+[港]明珠台,tvbus://p6p/2
+[港]无线新闻,tvbus://p6p/3
+[港]无线财经资讯,tvbus://p6p/4
+[港]TVB PLUS,tvbus://p6p/5
+[港]翡翠2台,tvbus://p6p/10
+[港]ViuTV,tvbus://p6p/11
+[港]ViuTV6,tvbus://p6p/12
+[港]HOY TV,tvbus://p6p/14
+[港]HOY TV资讯,tvbus://p6p/15
+[港]香港卫视,tvbus://p6p/18
+[港]凤凰卫视中文台,tvbus://p6p/22
+[港]凤凰卫视资讯台,tvbus://p6p/23
+港澳,#genre#
+[港]翡翠台,p8p://115
+[港]明珠台,p8p://116
+[港]TVB PLUS,p8p://117
+[港]美亞電影台,p8p://118
+港澳,#genre#
+[澳]澳视澳门,tvbus://360p/80
+[澳]澳门资讯,tvbus://360p/81
+[澳]澳门体育,tvbus://360p/82
+[澳]澳视葡文,tvbus://360p/83
+[澳]莲花卫视,tvbus://360p/84
+[澳]澳门卫视,tvbus://360p/85
+澳,#genre#
+[澳]澳视澳门,tvbus://p6p/80
+[澳]澳门资讯,tvbus://p6p/81
+[澳]澳门体育,tvbus://p6p/82
+[澳]澳门卫视,tvbus://p6p/85
+台灣,#genre#
+[台]台视,tvbus://360p/101
+[台]中视,tvbus://360p/102
+[台]华视,tvbus://360p/103
+[台]台视新闻,tvbus://360p/104
+[台]台视财经,tvbus://360p/105
+[台]台视综合,tvbus://360p/106
+[台]中视新闻,tvbus://360p/107
+[台]中视经典,tvbus://360p/108
+[台]中视菁采,tvbus://360p/109
+[台]华视教育,tvbus://360p/110
+[台]华视台语,tvbus://360p/111
+[台]公视,tvbus://360p/112
+[台]公视台语,tvbus://360p/113
+[台]公视三台,tvbus://360p/114
+[台]客家电视,tvbus://360p/115
+[台]原住民族电视,tvbus://360p/116
+[台]民视,tvbus://360p/117
+[台]民视新闻,tvbus://360p/118
+[台]民视第一台,tvbus://360p/119
+[台]民视台湾台,tvbus://360p/120
+[台]台视HD,tvbus://360p/121
+[台]中视HD,tvbus://360p/122
+[台]华视HD,tvbus://360p/123
+[台]公视HD,tvbus://360p/124
+[台]民视HD,tvbus://360p/125
+[台]三立台湾台,tvbus://360p/126
+[台]三立新闻,tvbus://360p/127
+[台]三立都会台,tvbus://360p/128
+[台]三立财经,tvbus://360p/129
+[台]三立综合,tvbus://360p/130
+[台]TVBS,tvbus://360p/131
+[台]TVBS欢乐台,tvbus://360p/132
+[台]TVBS新闻,tvbus://360p/133
+[台]东森新闻,tvbus://360p/134
+[台]东森财经,tvbus://360p/135
+[台]东森综合,tvbus://360p/136
+[台]东森电影,tvbus://360p/137
+[台]东森戏剧,tvbus://360p/138
+[台]东森洋片,tvbus://360p/139
+[台]东森幼幼,tvbus://360p/140
+[台]中天新闻,tvbus://360p/141
+[台]中天综合,tvbus://360p/142
+[台]中天娱乐,tvbus://360p/143
+[台]中天亚洲台,tvbus://360p/144
+[台]年代新闻,tvbus://360p/145
+[台]非凡新闻,tvbus://360p/146
+[台]非凡财经,tvbus://360p/147
+[台]八大第一,tvbus://360p/148
+[台]八大综合,tvbus://360p/149
+[台]八大戏剧,tvbus://360p/150
+[台]八大娱乐,tvbus://360p/151
+[台]纬来体育,tvbus://360p/152
+[台]纬来育乐,tvbus://360p/153
+[台]纬来日本台,tvbus://360p/154
+[台]纬来综合,tvbus://360p/155
+[台]纬来电影,tvbus://360p/156
+[台]纬来戏剧,tvbus://360p/157
+[台]龙华电影,tvbus://360p/158
+[台]龙华戏剧,tvbus://360p/159
+[台]龙华洋片,tvbus://360p/160
+[台]龙华偶像,tvbus://360p/161
+[台]龙华日剧,tvbus://360p/162
+[台]龙华卡通,tvbus://360p/163
+[台]卫视中文台,tvbus://360p/164
+[台]卫视电影台,tvbus://360p/165
+[台]卫视西片台,tvbus://360p/166
+[台]STAR Movies,tvbus://360p/167
+[台]STAR Chinese Movies,tvbus://360p/168
+[台]FOX Sports,tvbus://360p/169
+[台]FOX,tvbus://360p/170
+[台]FOX News,tvbus://360p/171
+[台]CNN,tvbus://360p/172
+[台]BBC,tvbus://360p/173
+[台]NHK,tvbus://360p/174
+[台]Discovery,tvbus://360p/175
+[台]国家地理,tvbus://360p/176
+[台]动物星球,tvbus://360p/177
+[台]音乐台,tvbus://360p/178
+[台]MTV,tvbus://360p/179
+[台]Channel V,tvbus://360p/180
+[台]KISS Radio,tvbus://360p/181
+[台]怀旧台,tvbus://360p/182
+[台]彩虹台,tvbus://360p/183
+[台]好消息,tvbus://360p/184
+[台]大爱一台,tvbus://360p/185
+[台]大爱二台,tvbus://360p/186
+[台]佛教台,tvbus://360p/187
+[台]人间卫视,tvbus://360p/188
+[台]华藏卫视,tvbus://360p/189
+[台]生命电视台,tvbus://360p/190
+[台]台视综合HD,tvbus://360p/191
+[台]中视菁采HD,tvbus://360p/192
+[台]华视教育HD,tvbus://360p/193
+[台]公视三台HD,tvbus://360p/194
+[台]MOMO亲子,tvbus://360p/195
+[台]YOYO,tvbus://360p/196
+[台]东森新闻HD,tvbus://360p/197
+[台]TVBS新闻HD,tvbus://360p/198
+[台]三立新闻HD,tvbus://360p/199
+[台]中天新闻HD,tvbus://360p/200
+[台]台视財經HD,tvbus://360p/201
+[台]民视新闻HD,tvbus://360p/202
+[台]台视HD,tvbus://360p/203
+[台]中视HD,tvbus://360p/204
+[台]华视HD,tvbus://360p/205
+[台]公视HD,tvbus://360p/206
+[台]民视HD,tvbus://360p/207
+[台]台视,tvbus://360p/208
+[台]中视,tvbus://360p/209
+[台]华视,tvbus://360p/210
+[台]公视,tvbus://360p/211
+[台]民视,tvbus://360p/212
+[台]台视新闻,tvbus://360p/213
+[台]中视新闻,tvbus://360p/214
+[台]华视新闻,tvbus://360p/215
+[台]公视新闻,tvbus://360p/216
+[台]民视新闻,tvbus://360p/217
+[台]三立新闻,tvbus://360p/218
+[台]TVBS新闻,tvbus://360p/219
+[台]中天新闻,tvbus://360p/220
+[台]东森新闻,tvbus://360p/221
+[台]年代新闻,tvbus://360p/222
+[台]非凡新闻,tvbus://360p/223
+[台]壹新闻,tvbus://360p/224
+[台]寰宇新闻,tvbus://360p/225
+[台]中视菁采,tvbus://360p/226
+[台]中视经典,tvbus://360p/227
+[台]华视台语,tvbus://360p/228
+[台]华视休闲,tvbus://360p/229
+[台]公视台语,tvbus://360p/230
+[台]客家电视,tvbus://360p/231
+[台]原民台,tvbus://360p/232
+[台]民视第一台,tvbus://360p/233
+[台]民视台湾台,tvbus://360p/234
+[台]三立台湾台,tvbus://360p/235
+[台]三立都会台,tvbus://360p/236
+[台]三立综合,tvbus://360p/237
+[台]三立财经,tvbus://360p/238
+[台]TVBS,tvbus://360p/239
+[台]TVBS欢乐台,tvbus://360p/240
+[台]TVBS精彩台,tvbus://360p/241
+[台]东森综合,tvbus://360p/242
+[台]东森戏剧,tvbus://360p/243
+[台]东森电影,tvbus://360p/244
+[台]东森洋片,tvbus://360p/245
+[台]东森幼幼,tvbus://360p/246
+[台]东森财经,tvbus://360p/247
+[台]中天综合,tvbus://360p/248
+[台]中天娱乐,tvbus://360p/249
+[台]中天亚洲台,tvbus://360p/250
+[台]八大第一,tvbus://360p/251
+[台]八大综合,tvbus://360p/252
+[台]八大戏剧,tvbus://360p/253
+[台]八大娱乐,tvbus://360p/254
+[台]八大K台,tvbus://360p/255
+[台]纬来体育,tvbus://360p/256
+[台]纬来育乐,tvbus://360p/257
+[台]纬来日本台,tvbus://360p/258
+[台]纬来综合,tvbus://360p/259
+[台]纬来电影,tvbus://360p/260
+[台]纬来戏剧,tvbus://360p/261
+[台]龙华电影,tvbus://360p/262
+[台]龙华戏剧,tvbus://360p/263
+[台]龙华洋片,tvbus://360p/264
+[台]龙华偶像,tvbus://360p/265
+[台]龙华日剧,tvbus://360p/266
+[台]龙华卡通,tvbus://360p/267
+[台]卫视中文台,tvbus://360p/268
+[台]卫视电影台,tvbus://360p/269
+[台]卫视西片台,tvbus://360p/270
+[台]STAR Movies,tvbus://360p/271
+[台]STAR Chinese Movies,tvbus://360p/272
+[台]FOX Sports,tvbus://360p/273
+[台]FOX,tvbus://360p/274
+[台]FOX News,tvbus://360p/275
+[台]CNN,tvbus://360p/276
+[台]BBC,tvbus://360p/277
+[台]NHK,tvbus://360p/278
+[台]Discovery,tvbus://360p/279
+[台]国家地理,tvbus://360p/280
+[台]动物星球,tvbus://360p/281
+[台]音乐台,tvbus://360p/282
+[台]MTV,tvbus://360p/283
+[台]Channel V,tvbus://360p/284
+[台]KISS Radio,tvbus://360p/285
+[台]怀旧台,tvbus://360p/286
+[台]彩虹台,tvbus://360p/287
+[台]好消息,tvbus://360p/288
+[台]大爱一台,tvbus://360p/289
+[台]大爱二台,tvbus://360p/290
+[台]佛教台,tvbus://360p/291
+[台]人间卫视,tvbus://360p/292
+[台]华藏卫视,tvbus://360p/293
+[台]生命电视台,tvbus://360p/294
+[台]MOMO亲子,tvbus://360p/295
+[台]YOYO,tvbus://360p/296
+大陸,#genre#
+[陆]CCTV-1 综合,tvbus://360p/1001
+[陆]CCTV-2 财经,tvbus://360p/1002
+[陆]CCTV-3 综艺,tvbus://360p/1003
+[陆]CCTV-4 中文国际,tvbus://360p/1004
+[陆]CCTV-5 体育,tvbus://360p/1005
+[陆]CCTV-5+ 体育赛事,tvbus://360p/1006
+[陆]CCTV-6 电影,tvbus://360p/1007
+[陆]CCTV-7 国防军事,tvbus://360p/1008
+[陆]CCTV-8 电视剧,tvbus://360p/1009
+[陆]CCTV-9 纪录,tvbus://360p/1010
+[陆]CCTV-10 科教,tvbus://360p/1011
+[陆]CCTV-11 戏曲,tvbus://360p/1012
+[陆]CCTV-12 社会与法,tvbus://360p/1013
+[陆]CCTV-13 新闻,tvbus://360p/1014
+[陆]CCTV-14 少儿,tvbus://360p/1015
+[陆]CCTV-15 音乐,tvbus://360p/1016
+[陆]CCTV-16 奥林匹克,tvbus://360p/1017
+[陆]CCTV-17 农业农村,tvbus://360p/1018
+[陆]CCTV-4K 超高清,tvbus://360p/1019
+[陆]CCTV-8K 超高清,tvbus://360p/1020
+[陆]CGTN,tvbus://360p/1021
+[陆]CGTN 纪录,tvbus://360p/1022
+[陆]CGTN 法语,tvbus://360p/1023
+[陆]CGTN 西班牙语,tvbus://360p/1024
+[陆]CGTN 阿拉伯语,tvbus://360p/1025
+[陆]CGTN 俄语,tvbus://360p/1026
+[陆]湖南卫视,tvbus://360p/1027
+[陆]浙江卫视,tvbus://360p/1028
+[陆]江苏卫视,tvbus://360p/1029
+[陆]东方卫视,tvbus://360p/1030
+[陆]北京卫视,tvbus://360p/1031
+[陆]安徽卫视,tvbus://360p/1032
+[陆]广东卫视,tvbus://360p/1033
+[陆]深圳卫视,tvbus://360p/1034
+[陆]山东卫视,tvbus://360p/1035
+[陆]天津卫视,tvbus://360p/1036
+[陆]四川卫视,tvbus://360p/1037
+[陆]湖北卫视,tvbus://360p/1038
+[陆]河南卫视,tvbus://360p/1039
+[陆]河北卫视,tvbus://360p/1040
+[陆]福建东南卫视,tvbus://360p/1041
+[陆]福建卫视,tvbus://360p/1042
+[陆]江西卫视,tvbus://360p/1043
+[陆]辽宁卫视,tvbus://360p/1044
+[陆]吉林卫视,tvbus://360p/1045
+[陆]黑龙江卫视,tvbus://360p/1046
+[陆]山西卫视,tvbus://360p/1047
+[陆]陕西卫视,tvbus://360p/1048
+[陆]甘肃卫视,tvbus://360p/1049
+[陆]宁夏卫视,tvbus://360p/1050
+[陆]青海卫视,tvbus://360p/1051
+[陆]新疆卫视,tvbus://360p/1052
+[陆]西藏卫视,tvbus://360p/1053
+[陆]云南卫视,tvbus://360p/1054
+[陆]贵州卫视,tvbus://360p/1055
+[陆]广西卫视,tvbus://360p/1056
+[陆]海南卫视,tvbus://360p/1057
+[陆]内蒙古卫视,tvbus://360p/1058
+[陆]重庆卫视,tvbus://360p/1059
+[陆]旅游卫视,tvbus://360p/1060
+[陆]东南卫视,tvbus://360p/1061
+[陆]海峡卫视,tvbus://360p/1062
+[陆]厦门卫视,tvbus://360p/1063
+[陆]南方卫视,tvbus://360p/1064
+[陆]嘉佳卡通,tvbus://360p/1065
+[陆]金鹰卡通,tvbus://360p/1066
+[陆]卡酷少儿,tvbus://360p/1067
+[陆]优漫卡通,tvbus://360p/1068
+[陆]哈哈炫动,tvbus://360p/1069
+[陆]北京卡酷,tvbus://360p/1070
+[陆]湖南金鹰,tvbus://360p/1071
+[陆]上海哈哈,tvbus://360p/1072
+[陆]广东嘉佳,tvbus://360p/1073
+[陆]江苏优漫,tvbus://360p/1074
+[陆]浙江少儿,tvbus://360p/1075
+[陆]山东少儿,tvbus://360p/1076
+[陆]湖北少儿,tvbus://360p/1077
+[陆]四川妇女儿童,tvbus://360p/1078
+[陆]辽宁青少,tvbus://360p/1079
+[陆]湖南娱乐,tvbus://360p/1080
+[陆]湖南经视,tvbus://360p/1081
+[陆]湖南都市,tvbus://360p/1082
+[陆]湖南电视剧,tvbus://360p/1083
+[陆]湖南电影,tvbus://360p/1084
+[陆]浙江钱江都市,tvbus://360p/1085
+[陆]浙江经济生活,tvbus://360p/1086
+[陆]浙江影视娱乐,tvbus://360p/1087
+[陆]浙江民生休闲,tvbus://360p/1088
+[陆]浙江教育科技,tvbus://360p/1089
+[陆]江苏城市,tvbus://360p/1090
+[陆]江苏综艺,tvbus://360p/1091
+[陆]江苏影视频道,tvbus://360p/1092
+[陆]江苏体育休闲,tvbus://360p/1093
+[陆]江苏公共新闻,tvbus://360p/1094
+[陆]上海新闻综合,tvbus://360p/1095
+[陆]上海都市,tvbus://360p/1096
+[陆]上海东方影视,tvbus://360p/1097
+[陆]上海纪实人文,tvbus://360p/1098
+[陆]上海第一财经,tvbus://360p/1099
+[陆]上海五星体育,tvbus://360p/1100
+[陆]北京新闻,tvbus://360p/1101
+[陆]北京文艺,tvbus://360p/1102
+[陆]北京影视,tvbus://360p/1103
+[陆]北京财经,tvbus://360p/1104
+[陆]北京体育休闲,tvbus://360p/1105
+[陆]北京生活,tvbus://360p/1106
+[陆]广东珠江,tvbus://360p/1107
+[陆]广东体育,tvbus://360p/1108
+[陆]广东民生,tvbus://360p/1109
+[陆]广东新闻,tvbus://360p/1110
+[陆]广东影视,tvbus://360p/1111
+[陆]广东少儿,tvbus://360p/1112
