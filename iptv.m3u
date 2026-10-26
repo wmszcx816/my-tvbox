@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="翡翠台" group-title="香港",翡翠台
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+#EXTINF:-1 tvg-name="翡翠台 Golden Jade" group-title="香港",翡翠台 Golden Jade
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+#EXTINF:-1 tvg-name="港台電視31" group-title="香港",港台電視31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-name="美亞電影台" group-title="香港",美亞電影台
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+#EXTINF:-1 tvg-name="美亞電影台 源2" group-title="香港",美亞電影台 源2
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
+#EXTINF:-1 tvg-name="美亞電影台 源3" group-title="香港",美亞電影台 源3
+http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
+#EXTINF:-1 tvg-name="Asian Drama" group-title="香港",Asian Drama
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+#EXTINF:-1 tvg-name="寵物頻道" group-title="香港",寵物頻道
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="KIX" group-title="香港",KIX
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
+#EXTINF:-1 tvg-name="華視" group-title="台湾",華視
+rtmp://59.124.75.138:1935/sat/tv111
+#EXTINF:-1 tvg-name="公視3台" group-title="台湾",公視3台
+http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="東森洋片台" group-title="台湾",東森洋片台
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="TVBS-Asia" group-title="台湾",TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-name="原住民族電視台 720p" group-title="台湾",原住民族電視台 720p
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-name="唯心電視" group-title="台湾",唯心電視
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-name="SJTV" group-title="台湾",SJTV
+http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="Beautiful Life TV" group-title="台湾",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-name="CGNTV Chinese" group-title="台湾",CGNTV Chinese
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 #EXTINF:-1 tvg-name="中国天气" group-title="央🎋卫",中国天气
 http://106.12.29.154:5050/959986621
 #EXTINF:-1 tvg-name="CCTV1" group-title="央🎋卫",CCTV1
