@@ -2378,8 +2378,6 @@ http://192.151.150.154/live/chchd.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="电🎋影",CHC影迷电影
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chchd
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="电🎋影",CHC影迷电影
-http://111.228.4.117:6789/migu720p.php?id=952383261
-#EXTINF:-1 tvg-name="CHC影迷电影" group-title="电🎋影",CHC影迷电影
 http://hzzzz530.com:4022/udp/239.69.1.241:11088
 #EXTINF:-1 tvg-name="CHC电影" group-title="电🎋影",CHC电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2414,8 +2412,6 @@ http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="风云剧场" group-title="电🎋影",风云剧场
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/CCTV6.png" group-title="电🎋影",CCTV6
-http://yjj888.f3322.net:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/CCTV6.png" group-title="电🎋影",CCTV6
 http://124.90.45.52:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="浙江影视" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B5%99%E6%B1%9F%E5%BD%B1%E8%A7%86.png" group-title="电🎋影",浙江影视
 https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?
@@ -2427,8 +2423,6 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 #EXTINF:-1 tvg-name="东阳影视生活" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%9C%E9%98%B3%E5%BD%B1%E8%A7%86%E7%94%9F%E6%B4%BB.png" group-title="电🎋影",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-#EXTINF:-1 tvg-name="淮安影院娱乐" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B7%AE%E5%AE%89%E5%BD%B1%E8%A7%86%E5%A8%B1%E4%B9%90.png" group-title="电🎋影",淮安影院娱乐
-http://live1.habctv.com/ysylsl/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨影视" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%93%88%E5%B0%94%E6%BB%A8%E5%BD%B1%E8%A7%86.png" group-title="电🎋影",哈尔滨影视
 http://stream.hrbtv.net/yspd/sd/live.m3u8
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%BD%B1%E8%A7%86.png" group-title="电🎋影",黑龙江影视
@@ -2447,6 +2441,60 @@ http://zby.lskk.top/cdnlive.php?mode=play&id=f61adc3051393878503f5c0e6baa5983&to
 http://zby.lskk.top/cdnlive.php?mode=play&id=a5f799ea7465e196f726736ff8551980&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 #EXTINF:-1 tvg-name="MoreMax" group-title="电🎋影",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
+#EXTINF:-1 tvg-id="QTV3.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" group-title="电🎋影",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+#EXTINF:-1 group-title="电🎋影",固镇影视频道
+http://www.guzhenm.com:7004/hls/hd-live.m3u8
+#EXTINF:-1 group-title="电🎋影",新昌休闲影视
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",周星驰电影
+https://live.metshop.top/huya/11342412
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",林正英电影
+https://live.metshop.top/huya/11342421
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",刘德华电影
+https://live.metshop.top/huya/11342424
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",古天乐电影
+https://live.metshop.top/huya/29982675
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",成龙电影
+https://live.metshop.top/huya/11342386
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",李连杰电影
+https://live.metshop.top/huya/11342390
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",甄子丹电影
+https://live.metshop.top/huya/11352935
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",沈腾电影
+https://live.metshop.top/huya/11601968
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",黄渤电影
+https://live.metshop.top/huya/11352876
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",强森电影
+https://live.metshop.top/huya/21059581
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",王晶电影
+https://live.metshop.top/huya/11602058
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",金庸武侠
+https://live.metshop.top/huya/11342435
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",功夫电影
+https://live.metshop.top/huya/11352941
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",贺岁电影
+https://live.metshop.top/huya/11601986
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",怪兽电影
+https://live.metshop.top/huya/21059577
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",武侠电影
+https://live.metshop.top/huya/11342427
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",玄幻电影
+https://live.metshop.top/huya/11342414
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",罪犯电影
+https://live.metshop.top/huya/11352962
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",战争电影
+https://live.metshop.top/huya/21059574
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",谍战电影
+https://live.metshop.top/huya/21059585
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",枪战电影
+https://live.metshop.top/huya/21059579
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",狄仁杰电影
+https://live.metshop.top/huya/30080229
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",末日电影合集
+https://live.ottiptv.cc/yy/1354889019
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电🎋影",宇宙科幻合集
+https://live.metshop.top/huya/11342428
 #EXTINF:-1 tvg-name="Babes" group-title="国🎋际",Babes
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="Brazzers" group-title="国🎋际",Brazzers
