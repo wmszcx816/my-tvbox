@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="翡翠台" group-title="香🎋港",翡翠台
-http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
-#EXTINF:-1 tvg-name="翡翠台 Golden Jade" group-title="香🎋港",翡翠台 Golden Jade
-http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-#EXTINF:-1 tvg-name="港台電視31" group-title="香🎋港",港台電視31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-name="美亞電影台" group-title="香🎋港",美亞電影台
-http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
-#EXTINF:-1 tvg-name="美亞電影台 源2" group-title="香🎋港",美亞電影台 源2
-http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
-#EXTINF:-1 tvg-name="美亞電影台 源3" group-title="香🎋港",美亞電影台 源3
-http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
-#EXTINF:-1 tvg-name="Asian Drama" group-title="香🎋港",Asian Drama
-http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
-#EXTINF:-1 tvg-name="寵物頻道" group-title="香🎋港",寵物頻道
-https://petclub-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="KIX" group-title="香🎋港",KIX
-https://freem3u.xyz/api/live/play.m3u8?vid=9901
-#EXTINF:-1 tvg-name="華視" group-title="台🎋湾",華視
-rtmp://59.124.75.138:1935/sat/tv111
-#EXTINF:-1 tvg-name="公視3台" group-title="台🎋湾",公視3台
-http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="東森洋片台" group-title="台🎋湾",東森洋片台
-http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="TVBS-Asia" group-title="台🎋湾",TVBS-Asia
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-name="原住民族電視台 720p" group-title="台🎋湾",原住民族電視台 720p
-https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-name="唯心電視" group-title="台🎋湾",唯心電視
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-name="SJTV" group-title="台🎋湾",SJTV
-http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="Beautiful Life TV" group-title="台🎋湾",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-name="CGNTV Chinese" group-title="台🎋湾",CGNTV Chinese
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94.png" group-title="央🎋卫",中国天气
 http://106.12.29.154:5050/959986621
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV1.png" group-title="央🎋卫",CCTV1
@@ -2094,8 +2058,6 @@ https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w117
 #EXTINF:-1 tvg-name="GOODTV好消息" group-title="港🎋澳",GOODTV好消息
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 tvg-name="NOW新闻" group-title="港🎋澳",NOW新闻
-http://173.208.234.146/live/nowxw.m3u8
-#EXTINF:-1 tvg-name="NOW新闻" group-title="港🎋澳",NOW新闻
 http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/RTHK32.png" group-title="港🎋澳",RTHK32
 https://fast.hidns.vip/163189/rthk32
@@ -2231,24 +2193,12 @@ http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
 https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
 #EXTINF:-1 tvg-name="鳳凰香港台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" group-title="港🎋澳",鳳凰香港台
 https://epg.pw/stream/27b49ba568efc8dcc9af6a79ec06ffd4a2e354e3e2060143be83fca695edf46e.m3u8
-#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",非凡新闻
-http://iptv.4666888.xyz/iptv2A.php?id=44
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86.png" group-title="港🎋澳",民视
-http://iptv.4666888.xyz/iptv2A.php?id=55
-#EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E7%B6%9C%E8%97%9D.png" group-title="港🎋澳",民视综艺
-http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 tvg-name="Now TV70s" group-title="港🎋澳",Now TV70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="港🎋澳",龙华电影
 http://8.fast.hidns.vip/163189/lhdy
-#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVB娱乐新闻
-http://iptv.4666888.xyz/iptv2A.php?id=36
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
-http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港🎋澳",凤凰资讯
 http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87.png" group-title="港🎋澳",民视影剧
-http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
 http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="Now TV90s00s" group-title="港🎋澳",Now TV90s00s
@@ -2259,30 +2209,14 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
 http://156.238.224.170:7001/fhx.php?id=cn
-#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8.png" group-title="港🎋澳",千禧经典
-http://iptv.4666888.xyz/iptv2A.php?id=22
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港🎋澳",翡翠台
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
-#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/TVB%E6%98%8E%E7%8F%A0.png" group-title="港🎋澳",TVB明珠
-http://iptv.4666888.xyz/iptv2A.php?id=29
-#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1.png" group-title="港🎋澳",靖天电影
-http://iptv.4666888.xyz/iptv2A.php?id=56
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",TVBS新闻
-http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 tvg-name="东森综合" group-title="港🎋澳",东森综合
-http://iptv.4666888.xyz/iptv2A.php?id=58
 #EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8.png" group-title="港🎋澳",千禧经典
 http://tv.cloudcdn.me:80/live.ts?uid=4280&deviceMac=00:1A:79:17:C1:7F&channelId=133057
 #EXTINF:-1 tvg-name="NOW TV (720p)" group-title="港🎋澳",NOW TV (720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9C%89%E7%B7%9A%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",有线新闻
-http://iptv.4666888.xyz/iptv2A.php?id=31
-#EXTINF:-1 tvg-name="东森电影" group-title="港🎋澳",东森电影
-http://iptv.4666888.xyz/iptv2A.php?id=48
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港🎋澳",凤凰资讯
 http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=fhzx
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港🎋澳",翡翠台
-http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 tvg-name="VIU" group-title="港🎋澳",VIU
 https://cdn.123.rr.kg/163189/viu
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港🎋澳",凤凰中文
@@ -2291,8 +2225,6 @@ http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=fhzw
 https://10.fast.hidns.vip/163189/viu/
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="港🎋澳",中天新闻
 http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
-#EXTINF:-1 tvg-name="美亚电影" group-title="港🎋澳",美亚电影
-http://iptv.4666888.xyz/iptv2A.php?id=30
 #EXTINF:-1 tvg-name="面包台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%9D%A2%E5%8C%85%E5%8F%B0.png" group-title="港🎋澳",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" group-title="港🎋澳",TVB Plus
@@ -2303,8 +2235,6 @@ http://cdn10.123.rr.kg/163189/tvbp/
 https://cdn3.indevs.in/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="环球电视" group-title="港🎋澳",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86.png" group-title="港🎋澳",星空卫视
-http://116.77.33.98:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="翡翠台_2" group-title="港🎋澳",翡翠台_2
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 tvg-name="亚洲剧集" group-title="港🎋澳",亚洲剧集
@@ -2365,6 +2295,12 @@ http://zby.lskk.top/cdnlive.php?mode=play&id=d6873ce576957c64f936ba58c63d0485&to
 http://zby.lskk.top/cdnlive.php?mode=play&id=719f97d8d7f370913f80a4e5b92316cb&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 #EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%5BTW-II%5D018%E5%85%AC%E8%A6%96%E6%88%B2%E5%8A%87.png" group-title="港🎋澳",公视戏剧
 http://zby.lskk.top/cdnlive.php?mode=play&id=d48208e1bde7acb7cb7cf7d09dc9f30c&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+#EXTINF:-1 tvg-name="港台電視31" group-title="港🎋澳",港台電視31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-name="寵物頻道" group-title="港🎋澳",寵物頻道
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png" group-title="港🎋澳",八大戏剧台
+http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="AMC 电影台音乐" group-title="电🎋影",AMC 电影台音乐
 https://AMChls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="电🎋影",CCTV怀旧剧场
@@ -2480,8 +2416,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/CCTV6.png" group-title="电🎋影",CCTV6
 http://yjj888.f3322.net:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/CCTV6.png" group-title="电🎋影",CCTV6
-http://116.77.33.98:44330/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/CCTV6.png" group-title="电🎋影",CCTV6
 http://124.90.45.52:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="浙江影视" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%B5%99%E6%B1%9F%E5%BD%B1%E8%A7%86.png" group-title="电🎋影",浙江影视
 https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?
@@ -2513,64 +2447,6 @@ http://zby.lskk.top/cdnlive.php?mode=play&id=f61adc3051393878503f5c0e6baa5983&to
 http://zby.lskk.top/cdnlive.php?mode=play&id=a5f799ea7465e196f726736ff8551980&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 #EXTINF:-1 tvg-name="MoreMax" group-title="电🎋影",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
-#EXTINF:-1 tvg-name="松视1" group-title="松🎋视",松视1
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 tvg-name="松视2" group-title="松🎋视",松视2
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 tvg-name="松视3" group-title="松🎋视",松视3
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-#EXTINF:-1 tvg-name="彩虹" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9.png" group-title="松🎋视",彩虹
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 tvg-name="潘多啦" group-title="松🎋视",潘多啦
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%83%8A%E8%89%B3.png" group-title="松🎋视",惊艳
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 tvg-name="极限电影台" group-title="松🎋视",极限电影台
-http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8
-#EXTINF:-1 tvg-name="松视1台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A6%961%E5%8F%B0.png" group-title="松🎋视",松视1台
-http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c85giea/index.m3u8
-#EXTINF:-1 tvg-name="松视2台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A6%962%E5%8F%B0.png" group-title="松🎋视",松视2台
-http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
-#EXTINF:-1 tvg-name="香焦台HD" group-title="松🎋视",香焦台HD
-http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc123/index.m3u8
-#EXTINF:-1 tvg-name="潘多啦完美" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%BD%98%E5%A4%9A%E6%8B%89%E5%AE%8C%E7%BE%8E.png" group-title="松🎋视",潘多啦完美
-http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855d75/index.m3u8
-#EXTINF:-1 tvg-name="HAPPY" group-title="松🎋视",HAPPY
-http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc125/index.m3u8
-#EXTINF:-1 tvg-name="彩虹E" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9E.png" group-title="松🎋视",彩虹E
-http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855daa/index.m3u8
-#EXTINF:-1 tvg-name="驚艷台HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%83%8A%E8%89%B3.png" group-title="松🎋视",驚艷台HD
-http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/sajdxxzc/index.m3u8
-#EXTINF:-1 tvg-name="惊艳2" group-title="松🎋视",惊艳2
-http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
-#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%A6%99%E8%95%89.png" group-title="松🎋视",香蕉
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
-#EXTINF:-1 tvg-name="Fetish HD" group-title="松🎋视",Fetish HD
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-name="Interracial HD" group-title="松🎋视",Interracial HD
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-name="Milf HD" group-title="松🎋视",Milf HD
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 tvg-name="Pornstar HD" group-title="松🎋视",Pornstar HD
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-name="POV HD" group-title="松🎋视",POV HD
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 tvg-name="Russian HD" group-title="松🎋视",Russian HD
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-name="Rough" group-title="松🎋视",Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-name="Teen" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/TEEN.png" group-title="松🎋视",Teen
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 tvg-name="Gangbang" group-title="松🎋视",Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-name="Young Girls" group-title="松🎋视",Young Girls
-http://live.mycamtv.com/young.m3u8
-#EXTINF:-1 tvg-name="White Girls" group-title="松🎋视",White Girls
-http://live.mycamtv.com/white.m3u8
-#EXTINF:-1 tvg-name="Skinny Girls" group-title="松🎋视",Skinny Girls
-http://live.mycamtv.com/skinny.m3u8
-#EXTINF:-1 tvg-name="Medium Girls" group-title="松🎋视",Medium Girls
-http://live.mycamtv.com/medium.m3u8
 #EXTINF:-1 tvg-name="Babes" group-title="国🎋际",Babes
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="Brazzers" group-title="国🎋际",Brazzers
@@ -7013,62 +6889,6 @@ https://q2cyl7.cdnedge.live/file/avple-images/hls/623e76bb76b51e756d5edc00/playl
 https://q2cyl7.cdnedge.live/file/avple-images/hls/6280b7a8fc27be165aeb81d9/playlist.m3u8
 #EXTINF:-1 tvg-name="79" group-title="麻🎋豆",79
 https://q2cyl7.cdnedge.live/file/avple-images/hls/6252c0c06b426e5b63529745/playlist.m3u8
-#EXTINF:-1 tvg-name="惊艳1" group-title="临🎋时",惊艳1
-rtmp://112.29.121.74/live/易發TV-jyt
-#EXTINF:-1 tvg-name="香蕉2" group-title="临🎋时",香蕉2
-rtmp://112.29.121.74/live/易發TV-xjt
-#EXTINF:-1 tvg-name="惊艳2" group-title="临🎋时",惊艳2
-http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
-#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%83%8A%E8%89%B3.png" group-title="临🎋时",惊艳
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 tvg-name="潘多啦" group-title="临🎋时",潘多啦
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 tvg-name="彩虹" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9.png" group-title="临🎋时",彩虹
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 tvg-name="松1" group-title="临🎋时",松1
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 tvg-name="松2" group-title="临🎋时",松2
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 tvg-name="松3" group-title="临🎋时",松3
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%A6%99%E8%95%89.png" group-title="临🎋时",香蕉
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
-#EXTINF:-1 tvg-name="Anal" group-title="临🎋时",Anal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-name="Arab Girls" group-title="临🎋时",Arab Girls
-http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 tvg-name="Asian Girls" group-title="临🎋时",Asian Girls
-http://live.mycamtv.com/asian.m3u8
-#EXTINF:-1 tvg-name="Big Ass" group-title="临🎋时",Big Ass
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 tvg-name="Big Dick" group-title="临🎋时",Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-name="Big Tits" group-title="临🎋时",Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-name="Blowjob" group-title="临🎋时",Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-name="Blonde" group-title="临🎋时",Blonde
-http://live.redtraffic.xyz/blonde.m3u8
-#EXTINF:-1 tvg-name="Brunette" group-title="临🎋时",Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-name="Brunette Girls" group-title="临🎋时",Brunette Girls
-http://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1 tvg-name="Cuckold HD" group-title="临🎋时",Cuckold HD
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-name="Compilation" group-title="临🎋时",Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-name="Ebony Girls" group-title="临🎋时",Ebony Girls
-http://live.mycamtv.com/ebony.m3u8
-#EXTINF:-1 tvg-name="Hard Core" group-title="临🎋时",Hard Core
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 tvg-name="Three Some" group-title="临🎋时",Three Some
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 tvg-name="Lesbian" group-title="临🎋时",Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 tvg-name="Latina HD" group-title="临🎋时",Latina HD
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 tvg-name="Livecams" group-title="临🎋时",Livecams
-http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-name="(中文字幕)-[JUL-310]-一直憧憬的女教师樱井由美居然成为了我的后妈" group-title="岛🎋国",(中文字幕)-[JUL-310]-一直憧憬的女教师樱井由美居然成为了我的后妈
 https://m3u8.34cdn.com/newhd/202204/6266dee55589021efb7d97bb/hls/index.m3u8
 #EXTINF:-1 tvg-name="(中文字幕)-[230OREX-132]-まこさん(Hカップ)720p" group-title="岛🎋国",(中文字幕)-[230OREX-132]-まこさん(Hカップ)720p
