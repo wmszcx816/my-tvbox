@@ -6937,6 +6937,58 @@ https://q2cyl7.cdnedge.live/file/avple-images/hls/623e76bb76b51e756d5edc00/playl
 https://q2cyl7.cdnedge.live/file/avple-images/hls/6280b7a8fc27be165aeb81d9/playlist.m3u8
 #EXTINF:-1 tvg-name="79" group-title="麻🎋豆",79
 https://q2cyl7.cdnedge.live/file/avple-images/hls/6252c0c06b426e5b63529745/playlist.m3u8
+#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%A6%99%E8%95%89.png" group-title="松🎋视",香蕉
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.m3u8
+#EXTINF:-1 tvg-name="松1" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A7%861.png" group-title="松🎋视",松1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.m3u8
+#EXTINF:-1 tvg-name="松2" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A7%862.png" group-title="松🎋视",松2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.m3u8
+#EXTINF:-1 tvg-name="松3" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A7%863.png" group-title="松🎋视",松3
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.m3u8
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%83%8A%E8%89%B3.png" group-title="松🎋视",惊艳
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.m3u8
+#EXTINF:-1 tvg-name="潘朵啦" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%BD%98%E5%A4%9A%E6%8B%89%E5%AE%8C%E7%BE%8E.png" group-title="松🎋视",潘朵啦
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.m3u8
+#EXTINF:-1 tvg-name="彩虹" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9.png" group-title="松🎋视",彩虹
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.m3u8
+#EXTINF:-1 tvg-name="精艳" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%83%8A%E8%89%B3.png" group-title="松🎋视",精艳
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.m3u8
+#EXTINF:-1 tvg-name="完美台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%BD%98%E5%A4%9A%E6%8B%89%E5%AE%8C%E7%BE%8E.png" group-title="松🎋视",完美台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.m3u8
+#EXTINF:-1 tvg-name="HAPPY" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/HAPPY.png" group-title="松🎋视",HAPPY
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709091.m3u8
+#EXTINF:-1 tvg-name="极限电影台 HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9E%81%E9%99%90%E7%94%B5%E5%BD%B1.png" group-title="松🎋视",极限电影台 HD
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709086.m3u8
+#EXTINF:-1 tvg-name="彩虹K台 HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9K.png" group-title="松🎋视",彩虹K台 HD
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709040.m3u8
+#EXTINF:-1 tvg-name="潘朵拉完美 HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%BD%98%E5%A4%9A%E6%8B%89%E5%AE%8C%E7%BE%8E.png" group-title="松🎋视",潘朵拉完美 HD
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709042.m3u8
+#EXTINF:-1 tvg-name="松视1台 HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A7%861%E5%8F%B0.png" group-title="松🎋视",松视1台 HD
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709043.m3u8
+#EXTINF:-1 tvg-name="松视2台 HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A7%862%E5%8F%B0.png" group-title="松🎋视",松视2台 HD
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709044.m3u8
+#EXTINF:-1 tvg-name="松视3台 HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A7%863%E5%8F%B0.png" group-title="松🎋视",松视3台 HD
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709084.m3u8
+#EXTINF:-1 tvg-name="彩虹E台 HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9E.png" group-title="松🎋视",彩虹E台 HD
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709039.m3u8
+#EXTINF:-1 tvg-name="彩虹電影" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9%E7%94%B5%E5%BD%B1.png" group-title="松🎋视",彩虹電影
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709038.m3u8
+#EXTINF:-1 tvg-name="惊艳台 HD" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%83%8A%E8%89%B3.png" group-title="松🎋视",惊艳台 HD
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709041.m3u8
+#EXTINF:-1 tvg-name="LOOK" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/LOOK.png" group-title="松🎋视",LOOK
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/481453.m3u8
+#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E9%A6%99%E8%95%89%E5%8F%B0.png" group-title="松🎋视",香蕉台
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476372.m3u8
+#EXTINF:-1 tvg-name="HOT" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/HOT.png" group-title="松🎋视",HOT
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/639653.m3u8
+#EXTINF:-1 tvg-name="HiPLAY" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A7%861%E5%8F%B0.png" group-title="松🎋视",HiPLAY
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476377.m3u8
+#EXTINF:-1 tvg-name="彩虹R台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E5%BD%A9%E8%99%B9K.png" group-title="松🎋视",彩虹R台
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709085.m3u8
+#EXTINF:-1 tvg-name="乐活频道" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%9D%BE%E8%A7%861%E5%8F%B0.png" group-title="松🎋视",乐活频道
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476379.m3u8
+#EXTINF:-1 tvg-name="潘朵拉粉红台" tvg-logo="https://testingcf.jsdelivr.net/gh/CCSH/IPTV@main/logo/%E6%BD%98%E5%A4%9A%E6%8B%89%E7%B2%89%E7%BA%A2.png" group-title="松🎋视",潘朵拉粉红台
+https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476410.m3u8
 #EXTINF:-1 tvg-name="(中文字幕)-[JUL-310]-一直憧憬的女教师樱井由美居然成为了我的后妈" group-title="岛🎋国",(中文字幕)-[JUL-310]-一直憧憬的女教师樱井由美居然成为了我的后妈
 https://m3u8.34cdn.com/newhd/202204/6266dee55589021efb7d97bb/hls/index.m3u8
 #EXTINF:-1 tvg-name="(中文字幕)-[230OREX-132]-まこさん(Hカップ)720p" group-title="岛🎋国",(中文字幕)-[230OREX-132]-まこさん(Hカップ)720p

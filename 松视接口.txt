@@ -1,0 +1,27 @@
+松🎋视,#genre#
+香蕉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.m3u8
+松1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.m3u8
+松2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.m3u8
+松3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.m3u8
+惊艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.m3u8
+潘朵啦,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.m3u8
+彩虹,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.m3u8
+精艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.m3u8
+完美台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.m3u8
+HAPPY,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709091.m3u8
+极限电影台 HD,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709086.m3u8
+彩虹K台 HD,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709040.m3u8
+潘朵拉完美 HD,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709042.m3u8
+松视1台 HD,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709043.m3u8
+松视2台 HD,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709044.m3u8
+松视3台 HD,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709084.m3u8
+彩虹E台 HD,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709039.m3u8
+彩虹電影,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709038.m3u8
+惊艳台 HD,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709041.m3u8
+LOOK,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/481453.m3u8
+香蕉台,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476372.m3u8
+HOT,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/639653.m3u8
+HiPLAY,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476377.m3u8
+彩虹R台,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/709085.m3u8
+乐活频道,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476379.m3u8
+潘朵拉粉红台,https://cdn.metvbox.stream/v2/live/hv5gxvmgu90u/b490f5a4578e0e98/476410.m3u8
